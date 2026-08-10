@@ -18,10 +18,11 @@ const prefs = loadPrefs();
 const state = {
   feed: null,
   date: REFERENCE,
-  // Ruokavaliomerkinnät kiinnostavat vain osaa käyttäjistä. Ne jotka eivät
-  // tarvitse niitä saavat piilottaa sekä merkinnät että suodattimet pysyvästi;
-  // ne jotka tarvitsevat, valitsevat suodattimensa kerran.
-  showDiets: prefs.showDiets ?? true,
+  // Ruokavaliomerkinnät kiinnostavat vain osaa käyttäjistä, joten ne ovat
+  // oletuksena piilossa: 18 ravintolan listaan tulisi muuten satoja merkintöjä,
+  // joita useimmat eivät lue. Ne jotka niitä tarvitsevat kytkevät ne päälle
+  // kerran, ja valinta säilyy.
+  showDiets: prefs.showDiets ?? false,
   diets: new Set(prefs.diets ?? []),
   query: '',
 };
