@@ -2,11 +2,18 @@ import type { Adapter } from '../types.ts';
 import { compass } from './compass.ts';
 import { finlayson } from './finlayson.ts';
 import { lounastaja } from './lounastaja.ts';
+import { panchoVilla } from './panchovilla.ts';
 import { plevna } from './plevna.ts';
 import { raflaamo } from './raflaamo.ts';
 import { stahlberg } from './stahlberg.ts';
 import { valssi } from './valssi.ts';
 import { staticMenu } from './static.ts';
+
+/** Etelän Kebabin vakiolounas, sama joka arkipäivä. */
+const KEBAB_LOUNAS = [
+  { name: 'Kebab, pizza tai 12 kpl Hot Wings', diets: [], price: '12,50 €' },
+  { name: 'Grilliannokset', diets: [], price: '13,90 €' },
+];
 
 /**
  * Ravintolat jotka sivusto näyttää. Uuden paikan lisääminen = uusi tiedosto
@@ -41,6 +48,15 @@ export const adapters: Adapter[] = [
   finlayson,
   plevna,
   valssi,
+  panchoVilla({
+    id: 'pancho-villa-satakunnankatu',
+    name: 'Pancho Villa Satakunnankatu',
+    url: 'https://panchovilla.fi/ravintolat/tampere-satakunnankatu/',
+    area: 'Satakunnankatu 22',
+    lunchHours: 'ark. 11–14',
+    price: 'alk. 13,70 €',
+    coords: { lat: 61.5006663, lng: 23.7569553 },
+  }),
   compass({
     id: 'viistokatu',
     name: 'Kahvila-ravintola Viistokatu',
@@ -87,6 +103,126 @@ export const adapters: Adapter[] = [
     lunchHours: 'ma–pe 10.30–15',
     price: '13,90 €',
     coords: { lat: 61.5039028, lng: 23.7634417 },
+  }),
+
+  // Etelän Kebabin lounas on sama joka arkipäivä, mutta tiistaisin on lisäksi
+  // tiistaipita-tarjous. Siksi lista annetaan viikonpäivittäin ja tiistaihin
+  // lisätään yksi rivi.
+  staticMenu({
+    id: 'etelan-kebab',
+    name: 'Etelän Kebab',
+    url: 'https://etelankebab.com/',
+    area: 'Hämeenkatu 30',
+    lunchHours: 'ma–pe 11–15',
+    price: '12,50 € / grilliannokset 13,90 €',
+    note: 'Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €.',
+    items: {
+      1: KEBAB_LOUNAS,
+      2: [
+        ...KEBAB_LOUNAS,
+        {
+          name: 'Tiistaipita kebabilla, kanadönerillä tai falafelilla',
+          diets: [],
+          price: '6,90 €',
+          category: 'Tiistaitarjous',
+        },
+      ],
+      3: KEBAB_LOUNAS,
+      4: KEBAB_LOUNAS,
+      5: KEBAB_LOUNAS,
+    },
+    coords: { lat: 61.4972969, lng: 23.752937 },
+    canaries: ['Ma-Pe 11.00 – 15.00', '12,50 €', 'Grilliannokset lounashintaan 13,90 €', 'TIISTAIPITA'],
+  }),
+
+  // Subham kierrättää samaa viikkolistaa: joka maanantai sama, joka tiistai
+  // sama ja niin edelleen. Siksi items on annettu viikonpäivittäin.
+  //
+  // Sivu on Framework7-sovellus, joka hakee sisällön vasta selaimessa: palvelin
+  // palauttaa tyhjän rungon, josta jää tagien poiston jälkeen 23 merkkiä.
+  // Kanarialintuna voi siis tarkistaa vain että sivu on yhä olemassa — hintaa
+  // tai ruokia ei voi vahtia automaattisesti, joten ne pitää käydä katsomassa
+  // silloin tällöin itse.
+  staticMenu({
+    id: 'subham',
+    name: 'Subham',
+    url: 'https://foodzone.fi/tampere/subham/lunch',
+    area: 'Rongankatu 6',
+    lunchHours: 'ma–pe 10.45–14',
+    price: '13,50 €',
+    note: 'Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee.',
+    items: {
+      1: [
+        { name: 'Butter tasty chicken — haudutettuja kanapaloja sipuli-, juusto-, voi- ja cashewkermakastikkeessa', diets: ['G'] },
+        { name: 'Veg korma — kasviksia ja tuorejuustoa cashew- ja kermakastikkeessa', diets: ['G'] },
+        { name: 'Tofu alu chana masala — kikherneitä, perunaa ja paistettua tofua masalakastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Fish butter masala — pangasiusta cashew-, tomaatti-, voi- ja masalakermakastikkeessa', diets: ['L', 'G'] },
+        { name: 'Mix vegetable', diets: ['L', 'G', 'VEG'] },
+      ],
+      2: [
+        { name: 'Butter chicken — tandoorissa grillattua kanaa tomaatti-, voi- ja cashewkermakastikkeessa', diets: ['G'] },
+        { name: 'Rara lamb — kanaa, lammasta ja paprikaa sipuli-, kerma- ja masalakastikkeessa', diets: ['L', 'G'] },
+        { name: 'Veg butter masala — paistettuja kasviksia ja tuorejuustoa voi- ja masalakastikkeessa', diets: ['G'] },
+        { name: 'Hariyali kofta — pinaatti-perunapyöryköitä curry- ja kookoskermakastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Palak chana masala — kikherneitä ja pinaattia inkivääri- ja masalakastikkeessa', diets: ['L', 'G', 'VEG'] },
+      ],
+      3: [
+        { name: 'Mango chicken — kanaa cashew-, juusto-, mango-, tomaatti- ja kermakastikkeessa', diets: ['G'] },
+        { name: 'Veg kofta — friteerattuja kasvispyöryköitä curry-, tomaatti- ja kookoskermakastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Dal palak — papuja ja pinaattia kuminalla maustettuna masalakastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Shahi paneer — tuorejuustoa cashew-, hunaja-, tomaatti-, voi- ja kermakastikkeessa', diets: ['G'] },
+        { name: 'Veg pakoda — friteerattuja kasviksia', diets: ['L', 'G', 'VEG'] },
+      ],
+      4: [
+        { name: 'Garlic chicken — kanaa sipuli-, valkosipuli-, inkivääri- ja currykastikkeessa', diets: ['L', 'G'] },
+        { name: 'Chicken korma — kanaa tomaatti-, cashew-, kerma- ja currykastikkeessa', diets: ['G'] },
+        { name: 'Rajama masala — papuja tomaatti-, sipuli-, inkivääri- ja masalakastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Tofu chili — friteerattua tofua paprika-, soija- ja chilikastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Mix veg biryani — riisiä ja kauden kasviksia masalakastikkeessa', diets: ['L', 'G', 'VEG'] },
+      ],
+      5: [
+        { name: 'Butter chicken — tandoorissa grillattua kanaa tomaatti-, voi- ja cashewkermakastikkeessa', diets: ['G'] },
+        { name: 'Lamb rogan — lammasta maustetussa sipuli-, valkosipuli-, korianteri- ja jogurttikastikkeessa', diets: ['L', 'G'] },
+        { name: 'Tofu coconut — tofua kookos- ja currykastikkeessa', diets: ['L', 'G', 'VEG'] },
+        { name: 'Dal makhani — papuja korianterilla ja kuminalla maustettuna voi- ja kermakastikkeessa', diets: ['L', 'G'] },
+        { name: 'Jeera alu — paistettua perunaa ja kuminaa', diets: ['L', 'G', 'VEG'] },
+      ],
+    },
+    coords: { lat: 61.5000821, lng: 23.768614 },
+    canaries: ['Subham | BUFFET'],
+  }),
+
+  // Green Hippon lounaslista on kiinteä à la carte -lista, sama kaikissa
+  // ketjun ravintoloissa (Punavuori, Kallio, Töölö, Tampere) — ei vaihdu
+  // päivittäin, joten se kirjoitetaan tähän.
+  //
+  // Sivusto on Webflow-toteutus, jossa jokaiselle annokselle renderöidään
+  // kaikki ruokavaliokuvakkeet ja väärät piilotetaan CSS-luokalla
+  // w-condition-invisible. Tagien poisto sellaisenaan väittäisi esimerkiksi
+  // kinkkua sisältävää eggs benedictiä vegaaniseksi. Merkinnät alla on luettu
+  // sivulta piilotetut elementit poistettuina.
+  staticMenu({
+    id: 'green-hippo',
+    name: 'Green Hippo Tampere',
+    url: 'https://www.greenhippocafe.rocks/menu',
+    area: 'Jugendtori 7',
+    lunchHours: 'ma–pe 11–14',
+    price: '14,00 €',
+    note: 'Sama lounaslista kaikissa Green Hippon ravintoloissa.',
+    items: [
+      { name: 'Tofu bowl — musta riisi, punakaali, marinoitu tofu, parsakaali, maapähkinävoikastike', diets: ['VEG', 'G'] },
+      { name: 'Halloumisalaatti — halloumi, mansikka, meloni, pikkelöity punasipuli, mustaherukkavinaigrette', diets: ['G'] },
+      { name: 'Buddha bowl — kvinoa, bataatti, kukkakaalipyree, punajuurihummus, avokado, Nirvana-kastike', diets: ['VEG', 'G'] },
+      { name: 'Lehtikaali-tofusalaatti — lehtikaali-pinaatti, limemajoneesi, Jalotofu, avokado, manteli', diets: ['VEG', 'G'] },
+      { name: 'Avokadopasta — avokado, chili, valkosipuli, basilikaöljy, parmesaani', diets: ['VEG', 'G'] },
+      { name: 'Chicken bowl — musta riisi, punakaali, marinoitu kana, parsakaali, maapähkinävoikastike', diets: ['G'] },
+      // Annoksen saa kanalla tai tofulla, joten vegaanisuus on valinnainen.
+      { name: 'Wasabi-lehtikaalibowl — musta riisi, marinoitu kana tai tofu, wasabimajoneesi, ponzu', diets: ['VEG*', 'G'] },
+      { name: 'Lehtikaalibowl — lehtikaali, kvinoa, tomaatti, halloumi, uppomuna, manteli, jogurttikastike', diets: ['G'] },
+      { name: 'Nuudelisalaatti — lasinuudeli, porkkana, avokado, punakaali, parsakaali, maapähkinävoikastike', diets: ['VEG', 'G'] },
+    ],
+    coords: { lat: 61.4971293, lng: 23.7606973 },
+    canaries: ['MA-PE 11-14', 'BUDDHA BOWL', '14 €'],
   }),
 
   // Faasain lounas on sama joka arkipäivä: thaimaalainen buffet yhteen hintaan.
