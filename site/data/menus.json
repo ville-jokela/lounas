@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T05:06:04.308Z",
+  "generatedAt": "2026-08-10T05:35:14.760Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -305,7 +305,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.281Z",
+      "fetchedAt": "2026-08-10T05:35:07.480Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -337,7 +337,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.387Z",
+      "fetchedAt": "2026-08-10T05:35:09.125Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -680,7 +680,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.214Z",
+      "fetchedAt": "2026-08-10T05:35:07.992Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -941,7 +941,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.269Z",
+      "fetchedAt": "2026-08-10T05:35:07.925Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1755,7 +1755,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.449Z",
+      "fetchedAt": "2026-08-10T05:35:08.183Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2105,7 +2105,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.989Z",
+      "fetchedAt": "2026-08-10T05:35:09.585Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -2970,7 +2970,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:01.117Z",
+      "fetchedAt": "2026-08-10T05:35:10.006Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -3255,7 +3255,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.585Z",
+      "fetchedAt": "2026-08-10T05:35:09.119Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3544,7 +3544,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.609Z",
+      "fetchedAt": "2026-08-10T05:35:09.898Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -3686,7 +3686,7 @@
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.693Z",
+      "fetchedAt": "2026-08-10T05:35:10.326Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -4448,7 +4448,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:00.808Z",
+      "fetchedAt": "2026-08-10T05:35:10.278Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -4667,7 +4667,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:04.308Z",
+      "fetchedAt": "2026-08-10T05:35:14.759Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -4820,7 +4820,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-10T05:06:01.860Z",
+      "fetchedAt": "2026-08-10T05:35:11.598Z",
       "status": "ok",
       "distance": {
         "meters": 667,
