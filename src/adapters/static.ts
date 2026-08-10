@@ -5,12 +5,20 @@ import { getText } from '../util/http.ts';
 /** Montako päivää eteenpäin päiviä tuotetaan. scrape.ts leikkaa ylimääräiset. */
 const GENERATE_DAYS = 28;
 
+/**
+ * Lista joko sellaisenaan (sama joka päivä) tai viikonpäivittäin, kun ravintola
+ * kierrättää samaa viikkolistaa: avain 1 = maanantai … 7 = sunnuntai.
+ */
+type StaticItems = MenuItem[] | Record<number, MenuItem[]>;
+
 interface StaticOptions extends RestaurantMeta {
-  /** Lista sellaisena kuin se on joka päivä. */
-  items: MenuItem[];
+  items: StaticItems;
   /** Sama huomautus joka päivälle, esim. mitä hintaan sisältyy. */
   note?: string;
-  /** Päivät joina lounasta tarjoillaan. Oletus ma–pe. */
+  /**
+   * Päivät joina lounasta tarjoillaan. Oletus ma–pe, tai viikonpäivittäisessä
+   * listassa ne päivät joille on kirjoitettu ruokia.
+   */
   weekdays?: number[];
   /**
    * Teksti arkipäiville joina lounasta ei ole. Ilman tätä sivu sanoo "ei listaa
@@ -37,9 +45,18 @@ interface StaticOptions extends RestaurantMeta {
  * virhe — eli tieto siitä että tämä tiedosto pitää päivittää.
  */
 export function staticMenu(options: StaticOptions): Adapter {
-  const {
-    items, note, weekdays = [1, 2, 3, 4, 5], closedNote, canaries = [], ...meta
-  } = options;
+  const { items, note, weekdays, closedNote, canaries = [], ...meta } = options;
+
+  const sameEveryDay = Array.isArray(items);
+  const itemsFor = (dow: number): MenuItem[] =>
+    sameEveryDay ? items : (items[dow] ?? []);
+
+  // Viikonpäivittäisessä listassa tarjoilupäivät voi päätellä listasta itsestään.
+  const serving =
+    weekdays ??
+    (sameEveryDay
+      ? [1, 2, 3, 4, 5]
+      : Object.keys(items).map(Number).filter((d) => itemsFor(d).length > 0).sort());
 
   return {
     ...meta,
@@ -52,8 +69,9 @@ export function staticMenu(options: StaticOptions): Adapter {
         const date = addDays(start, i);
         const dow = dayOfWeek(date);
 
-        if (weekdays.includes(dow)) {
-          days.push({ date, items, ...(note ? { note } : {}) });
+        const dayItems = serving.includes(dow) ? itemsFor(dow) : [];
+        if (dayItems.length > 0) {
+          days.push({ date, items: dayItems, ...(note ? { note } : {}) });
           continue;
         }
         // Arkipäivä jona lounasta ei tarjoilla: sanotaan se ääneen.

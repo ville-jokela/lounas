@@ -45,9 +45,10 @@ Muuten sivu väittäisi maanantain olevan tänään samalla kun otsikossa lukee
 
 ## Käyttäjän asetukset
 
-Ruokavaliomerkinnät kiinnostavat vain osaa käyttäjistä, joten ne voi kytkeä pois
-kokonaan — silloin piiloutuvat sekä ruokien merkinnät että suodatinnapit.
-Vegaaniruokaa etsivä puolestaan valitsee suodattimensa kerran.
+Ruokavaliomerkinnät ovat **oletuksena piilossa**: kymmenien ravintoloiden
+listalla merkintöjä kertyy satoja, eikä useimmilla ole niille käyttöä.
+"Ruokavaliot"-napista saa näkyviin sekä ruokien merkinnät että suodatinnapit,
+ja vegaaniruokaa etsivä valitsee suodattimensa kerran.
 
 Molemmat säilyvät `localStorage`ssa (`lounas.prefs`), koska sivulla käydään joka
 päivä samoilla tarpeilla. Tallennus on selainkohtainen eikä sitä varten tarvita
@@ -185,6 +186,18 @@ Valitse kanarialinnuiksi juuri ne tiedot jotka olet kovakoodannut — hinta ja
 lounasaika — älä ravintolan nimeä tai muuta joka ei koskaan muutu. Välilyönnit
 normalisoidaan ja HTML-entiteetit puretaan, joten `PÄIVÄN LOUNASANNOS` löytyy
 vaikka sivulla lukisi `P&Auml;IV&Auml;N`.
+
+Jos lista kiertää viikonpäivittäin — sama joka maanantai, eri joka tiistai —
+anna `items` viikonpäivittäin (1 = maanantai … 7 = sunnuntai). Tarjoilupäivät
+päätellään silloin listasta itsestään:
+
+```ts
+items: {
+  1: LOUNAS,
+  2: [...LOUNAS, { name: 'Tiistaipita', diets: [], price: '6,90 €' }],
+  3: LOUNAS,
+}
+```
 
 Jos ravintola ei tarjoile lounasta joka arkipäivä, kerro se `weekdays`- ja
 `closedNote`-kentillä. Ilman `closedNote`a sivu sanoo "ei listaa tälle päivälle",
