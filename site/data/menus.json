@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T05:44:53.140Z",
+  "generatedAt": "2026-08-10T06:17:34.287Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -305,11 +305,248 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:49.033Z",
+      "fetchedAt": "2026-08-10T06:17:29.561Z",
       "status": "ok",
       "distance": {
         "meters": 740,
         "minutes": 10,
+        "mode": "walking"
+      }
+    },
+    {
+      "id": "suoma",
+      "name": "Ravintola Suoma",
+      "url": "https://ravintolasuoma.fi/",
+      "area": "Puutarhakatu 13",
+      "lunchHours": "ma–pe 10.30–14",
+      "price": "13,90 € / keitto ja salaatti 9,90 €",
+      "coords": {
+        "lat": 61.4990859,
+        "lng": 23.7569895
+      },
+      "days": [
+        {
+          "date": "2026-08-10",
+          "items": [
+            {
+              "name": "Juuressosekeittoa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Igorin kanaa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Paahdettua kesäperunaa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Pasta carbonara",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Kasvispihvejä & tsatsikia",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Sitrusmoussea",
+              "diets": [
+                "L",
+                "G"
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-08-11",
+          "items": [
+            {
+              "name": "Lapinukon riistakeitto",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Perinteinen kaalilaatikko",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Puolukkahilloa",
+              "diets": []
+            },
+            {
+              "name": "Kanapyörykät tomaatti- basilikakastikkeessa & riisiä",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Paahdettuja kasviksia ja halloumia",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Herukkarahka",
+              "diets": [
+                "L",
+                "G"
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-08-12",
+          "items": [
+            {
+              "name": "Tattikeittoa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Makkarakastike & perunamuusi",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Pitkään haudutettua bolognaisea ja rigatoni pastaa",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Ratatouillea",
+              "diets": [
+                "M",
+                "G",
+                "Veg"
+              ]
+            },
+            {
+              "name": "Puolukkapiirakka ja kinuskikastike",
+              "diets": [
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-08-13",
+          "items": [
+            {
+              "name": "Kreikkalainen kanakeitto",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Tapolan mustaamakkaraa ja puolukkahilloa",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Perunamuusia",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Ylikypsää possun niskaa ja korea bbq kastiketta",
+              "diets": [
+                "M",
+                "G"
+              ]
+            },
+            {
+              "name": "Suoman porkkanaletut",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Pannukakkua, mansikkahilloa ja kermavaahtoa",
+              "diets": [
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-08-14",
+          "items": [
+            {
+              "name": "Maa- artisokkakeittoa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Jauhelihamureketta ja metsäsienikastiketta",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Rosmariini- hunajajuurekset",
+              "diets": [
+                "M",
+                "G"
+              ]
+            },
+            {
+              "name": "Nachokuorrutettua kanaa ja chili-ananassalsaa",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Lohkoperunaa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Letut, kermavaahtoa, ja hilloa",
+              "diets": []
+            }
+          ]
+        }
+      ],
+      "fetchedAt": "2026-08-10T06:17:29.412Z",
+      "status": "ok",
+      "distance": {
+        "meters": 606,
+        "minutes": 8,
         "mode": "walking"
       }
     },
@@ -337,7 +574,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:50.693Z",
+      "fetchedAt": "2026-08-10T06:17:29.852Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -680,7 +917,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:49.620Z",
+      "fetchedAt": "2026-08-10T06:17:29.541Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -941,7 +1178,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:49.501Z",
+      "fetchedAt": "2026-08-10T06:17:29.829Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1004,16 +1241,7 @@
               "category": "So Good"
             },
             {
-              "name": "Lihapullia",
-              "diets": [
-                "G",
-                "M"
-              ],
-              "price": "14,00 €",
-              "category": "So Good"
-            },
-            {
-              "name": "Kermakastiketta",
+              "name": "Lihapullia kermakastikkeessa (MAIDOTON VAIHTOEHTO SAATAVILLA)",
               "diets": [
                 "G",
                 "L"
@@ -1094,7 +1322,7 @@
               "category": "Grillistä"
             },
             {
-              "name": "Tyrnirahkaa",
+              "name": "Mansikkarahkaa",
               "diets": [
                 "G",
                 "L"
@@ -1755,7 +1983,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:49.666Z",
+      "fetchedAt": "2026-08-10T06:17:29.841Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2105,7 +2333,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:50.760Z",
+      "fetchedAt": "2026-08-10T06:17:30.129Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -2970,7 +3198,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:50.786Z",
+      "fetchedAt": "2026-08-10T06:17:30.659Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -2994,10 +3222,9 @@
           "date": "2026-08-10",
           "items": [
             {
-              "name": "Broileria valkoviini-voikastikkeessa",
+              "name": "Kievin kana",
               "diets": [
-                "L",
-                "G"
+                "L"
               ]
             },
             {
@@ -3212,9 +3439,10 @@
               ]
             },
             {
-              "name": "Kievin kana",
+              "name": "Broileria valkoviini-voikastikkeessa",
               "diets": [
-                "L"
+                "L",
+                "G"
               ]
             },
             {
@@ -3255,7 +3483,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:50.620Z",
+      "fetchedAt": "2026-08-10T06:17:30.056Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3544,7 +3772,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:51.452Z",
+      "fetchedAt": "2026-08-10T06:17:31.258Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -3686,7 +3914,7 @@
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:51.916Z",
+      "fetchedAt": "2026-08-10T06:17:30.200Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -4448,7 +4676,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:51.357Z",
+      "fetchedAt": "2026-08-10T06:17:30.337Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -4667,7 +4895,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:52.481Z",
+      "fetchedAt": "2026-08-10T06:17:34.287Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -4820,7 +5048,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-10T05:44:53.140Z",
+      "fetchedAt": "2026-08-10T06:17:31.313Z",
       "status": "ok",
       "distance": {
         "meters": 667,

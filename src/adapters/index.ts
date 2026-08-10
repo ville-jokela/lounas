@@ -26,6 +26,18 @@ export const adapters: Adapter[] = [
     coords: { lat: 61.5024749, lng: 23.7634144 },
     apiKey: '5612c69a-7702-4ac0-b1b7-c63de8a77603',
   }),
+  // Tampereen Suomalaisen Klubin ravintola. Käyttää samaa lounastaja.app
+  // -widgettiä kuin Tampella, joten parseria ei tarvita.
+  lounastaja({
+    id: 'suoma',
+    name: 'Ravintola Suoma',
+    url: 'https://ravintolasuoma.fi/',
+    area: 'Puutarhakatu 13',
+    lunchHours: 'ma–pe 10.30–14',
+    price: '13,90 € / keitto ja salaatti 9,90 €',
+    coords: { lat: 61.4990859, lng: 23.7569895 },
+    apiKey: 'aa05c2cb-c72c-40a6-a617-b56eec77d4f6',
+  }),
   finlayson,
   plevna,
   valssi,
