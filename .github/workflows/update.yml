@@ -1,0 +1,62 @@
+name: Päivitä lounaslistat
+
+on:
+  schedule:
+    # Ajat ovat UTC:ta. Aamuhaku ennen töitä ja toinen kierros aamupäivällä,
+    # koska osa ravintoloista päivittää listansa myöhässä.
+    - cron: '15 4 * * 1-5'
+    - cron: '15 8 * * 1-5'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Estetään päällekkäiset ajot, jotka riitelisivät samasta committista.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Koodi ajetaan TypeScriptinä ilman käännöstä. Node purkaa tyypit ilman
+      # lippua vasta versiosta 22.18 / 23.6 alkaen, joten versio pinnataan.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Hae listat
+        run: npm run scrape
+
+      - name: Committaa muuttuneet listat
+        run: |
+          if git diff --quiet -- site/data/menus.json; then
+            echo "Ei muutoksia."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/menus.json
+          git commit -m "Päivitä lounaslistat $(date -u +%Y-%m-%d)"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}

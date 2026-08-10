@@ -1,0 +1,21 @@
+{
+  "name": "lounas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tampereen lounaslistat yhdessä paikassa",
+  "scripts": {
+    "scrape": "node src/scrape.ts",
+    "scrape:one": "node src/scrape.ts --only",
+    "serve": "npx --yes serve site",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "cheerio": "^1.0.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}

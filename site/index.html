@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="fi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Lounas Tampere</title>
+    <meta name="description" content="Tampereen lounaslistat yhdellä sivulla." />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🍽️</text></svg>"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>Lounas Tampere</h1>
+      <p class="updated" id="updated"></p>
+    </header>
+
+    <nav class="days" id="days" aria-label="Päivä"></nav>
+
+    <div class="filters">
+      <label class="search">
+        <input
+          type="search"
+          id="search"
+          placeholder="Hae ruokaa tai ravintolaa…"
+          autocomplete="off"
+        />
+      </label>
+      <button
+        type="button"
+        id="diet-toggle"
+        class="toggle"
+        aria-pressed="true"
+        title="Näytä tai piilota ruokavaliomerkinnät"
+      >
+        Ruokavaliot
+      </button>
+      <div class="diets" id="diets" role="group" aria-label="Ruokavaliosuodatin"></div>
+    </div>
+
+    <main id="list" class="list" aria-live="polite">
+      <p class="empty">Ladataan…</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Listat haetaan automaattisesti ravintoloiden omilta sivuilta. Virheet ovat
+        mahdollisia — tarkista epäselvät tapaukset ravintolan sivulta.
+      </p>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
