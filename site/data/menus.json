@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:45:24.270Z",
+  "generatedAt": "2026-08-11T05:23:04.304Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:16.610Z",
+      "fetchedAt": "2026-08-11T05:22:57.125Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -541,7 +541,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:16.615Z",
+      "fetchedAt": "2026-08-11T05:22:57.108Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -573,7 +573,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:19.070Z",
+      "fetchedAt": "2026-08-11T05:22:59.753Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -916,7 +916,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:17.405Z",
+      "fetchedAt": "2026-08-11T05:22:57.895Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1177,7 +1177,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:17.953Z",
+      "fetchedAt": "2026-08-11T05:22:58.129Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1197,35 +1197,6 @@
         "lng": 23.7569553
       },
       "days": [
-        {
-          "date": "2026-08-10",
-          "items": [
-            {
-              "name": "Panchon Burgerit — Panchon Burgerit normaalikokoisena 13,70€ sekä tuplana 16,50€ .Juusto, pekoni, chili, valkosipuli, kana, kasvis tai vege. Tarjoillaan ranskalaisilla, muu lisuke +1€.",
-              "diets": [],
-              "price": "13,70 € / 16,50 €"
-            },
-            {
-              "name": "Parila Lounas: Kana/Possu — Valitsemallasi kastikkeella (juustokastike, aurakastie, punaviinikastike/maustevoi. Grillikasvikset + ranskalaiset, muu lisuke+1€.",
-              "diets": [],
-              "price": "16,70 €"
-            },
-            {
-              "name": "POSSUA JALOPENOMAJONEESILLA",
-              "diets": [
-                "M"
-              ],
-              "price": "13,70 €"
-            },
-            {
-              "name": "BOCADILLO KASVISPIHVILLÄ",
-              "diets": [
-                "L"
-              ],
-              "price": "14,50 €"
-            }
-          ]
-        },
         {
           "date": "2026-08-11",
           "items": [
@@ -1348,7 +1319,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:17.277Z",
+      "fetchedAt": "2026-08-11T05:22:57.607Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -2153,7 +2124,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:18.085Z",
+      "fetchedAt": "2026-08-11T05:22:58.152Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2503,7 +2474,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:18.827Z",
+      "fetchedAt": "2026-08-11T05:22:59.598Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3366,9 +3337,86 @@
               "category": "Tarjolla aina lounasaikoihin"
             }
           ]
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Salaatti ja keitto — Sisältää päivänkeiton, sekä herkullisen ja monipuolisen salaattipöydän noutopöydästä.",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €"
+            },
+            {
+              "name": "Tammerin Kellarin noutopöytälounas — Päivänkeitto ja runsas salaattipöytä",
+              "diets": [],
+              "price": "15,50 €"
+            },
+            {
+              "name": "Lohta ja tzatzikia",
+              "diets": [
+                "L",
+                "G"
+              ],
+              "category": "Tammerin Kellarin noutopöytälounas"
+            },
+            {
+              "name": "Kikherne-porkkanapihvejä ja antiboise-kastiketta",
+              "diets": [
+                "VEG",
+                "G"
+              ],
+              "category": "Tammerin Kellarin noutopöytälounas"
+            },
+            {
+              "name": "Keitettyjä kesäperunoita ja tillivoita",
+              "diets": [
+                "L",
+                "G"
+              ],
+              "category": "Tammerin Kellarin noutopöytälounas"
+            },
+            {
+              "name": "Ohukaisia ja mansikkahilloa",
+              "diets": [
+                "G*",
+                "VEG*"
+              ],
+              "category": "Tammerin Kellarin noutopöytälounas"
+            },
+            {
+              "name": "Pariloitua lohta ja Antiboise kastiketta — Ranskalaisia perunoita ja kaudenkasviksia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "26,00 €",
+              "category": "Tarjolla aina lounasaikoihin"
+            },
+            {
+              "name": "Porsaan lehtipihvi 200g ja kermaista pippurikastiketta — Ranskalaisia perunoita ja kauden kasviksia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "24,00 €",
+              "category": "Tarjolla aina lounasaikoihin"
+            },
+            {
+              "name": "Kellarin Smash Burger — Naudan täyslihapihvi 150g, cheddarjuustoa, sipulihilloketta, confit-aiolia, rapeaa salaattia ja ranskalaiset perunat",
+              "diets": [
+                "L",
+                "G*"
+              ],
+              "price": "24,00 €",
+              "category": "Tarjolla aina lounasaikoihin"
+            }
+          ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:19.322Z",
+      "fetchedAt": "2026-08-11T05:22:59.534Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -3653,7 +3701,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:19.315Z",
+      "fetchedAt": "2026-08-11T05:22:59.404Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3942,7 +3990,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:21.271Z",
+      "fetchedAt": "2026-08-11T05:22:59.687Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4149,9 +4197,31 @@
             }
           ],
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Kebab, pizza tai 12 kpl Hot Wings",
+              "diets": [],
+              "price": "12,50 €"
+            },
+            {
+              "name": "Grilliannokset",
+              "diets": [],
+              "price": "13,90 €"
+            },
+            {
+              "name": "Tiistaipita kebabilla, kanadönerillä tai falafelilla",
+              "diets": [],
+              "price": "6,90 €",
+              "category": "Tiistaitarjous"
+            }
+          ],
+          "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:21.274Z",
+      "fetchedAt": "2026-08-11T05:23:00.682Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4629,9 +4699,50 @@
             }
           ],
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Butter chicken — tandoorissa grillattua kanaa tomaatti-, voi- ja cashewkermakastikkeessa",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Rara lamb — kanaa, lammasta ja paprikaa sipuli-, kerma- ja masalakastikkeessa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Veg butter masala — paistettuja kasviksia ja tuorejuustoa voi- ja masalakastikkeessa",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Hariyali kofta — pinaatti-perunapyöryköitä curry- ja kookoskermakastikkeessa",
+              "diets": [
+                "L",
+                "G",
+                "VEG"
+              ]
+            },
+            {
+              "name": "Palak chana masala — kikherneitä ja pinaattia inkivääri- ja masalakastikkeessa",
+              "diets": [
+                "L",
+                "G",
+                "VEG"
+              ]
+            }
+          ],
+          "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:20.041Z",
+      "fetchedAt": "2026-08-11T05:23:00.326Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -5376,9 +5487,75 @@
             }
           ],
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Tofu bowl — musta riisi, punakaali, marinoitu tofu, parsakaali, maapähkinävoikastike",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Halloumisalaatti — halloumi, mansikka, meloni, pikkelöity punasipuli, mustaherukkavinaigrette",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Buddha bowl — kvinoa, bataatti, kukkakaalipyree, punajuurihummus, avokado, Nirvana-kastike",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Lehtikaali-tofusalaatti — lehtikaali-pinaatti, limemajoneesi, Jalotofu, avokado, manteli",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Avokadopasta — avokado, chili, valkosipuli, basilikaöljy, parmesaani",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Chicken bowl — musta riisi, punakaali, marinoitu kana, parsakaali, maapähkinävoikastike",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Wasabi-lehtikaalibowl — musta riisi, marinoitu kana tai tofu, wasabimajoneesi, ponzu",
+              "diets": [
+                "VEG*",
+                "G"
+              ]
+            },
+            {
+              "name": "Lehtikaalibowl — lehtikaali, kvinoa, tomaatti, halloumi, uppomuna, manteli, jogurttikastike",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Nuudelisalaatti — lasinuudeli, porkkana, avokado, punakaali, parsakaali, maapähkinävoikastike",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            }
+          ],
+          "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:19.448Z",
+      "fetchedAt": "2026-08-11T05:23:00.084Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -5518,9 +5695,20 @@
             }
           ],
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Thaimaalainen buffet: liha- ja kasvisruokia",
+              "diets": [],
+              "price": "13,70 €"
+            }
+          ],
+          "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:21.052Z",
+      "fetchedAt": "2026-08-11T05:23:01.873Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -6280,9 +6468,15 @@
             }
           ],
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [],
+          "closed": true,
+          "note": "Ei lounasta tiistaisin — tiistaisin on burgertiistai."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:20.703Z",
+      "fetchedAt": "2026-08-11T05:23:00.797Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6499,9 +6693,27 @@
             }
           ],
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Thai-wokit",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Lounasannokset"
+            },
+            {
+              "name": "Salaatit",
+              "diets": [],
+              "price": "14,90 €",
+              "category": "Lounasannokset"
+            }
+          ],
+          "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:24.269Z",
+      "fetchedAt": "2026-08-11T05:23:04.303Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6652,9 +6864,21 @@
             }
           ],
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Intialainen buffetlounas: runsaasti kana-, liha- ja kasvisruokia",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Buffet"
+            }
+          ],
+          "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-10T09:45:22.824Z",
+      "fetchedAt": "2026-08-11T05:23:02.380Z",
       "status": "ok",
       "distance": {
         "meters": 667,
