@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T05:23:04.304Z",
+  "generatedAt": "2026-08-11T09:12:26.321Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:57.125Z",
+      "fetchedAt": "2026-08-11T09:12:20.289Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -541,7 +541,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:57.108Z",
+      "fetchedAt": "2026-08-11T09:12:20.263Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -573,7 +573,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:59.753Z",
+      "fetchedAt": "2026-08-11T09:12:22.937Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -916,7 +916,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:57.895Z",
+      "fetchedAt": "2026-08-11T09:12:21.349Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1073,7 +1073,7 @@
           "date": "2026-08-14",
           "items": [
             {
-              "name": "Savumuikkusosekeitto",
+              "name": "Savusärkisosekeitto",
               "diets": [
                 "L",
                 "EG"
@@ -1177,7 +1177,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:58.129Z",
+      "fetchedAt": "2026-08-11T09:12:21.289Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1319,7 +1319,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:57.607Z",
+      "fetchedAt": "2026-08-11T09:12:20.796Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1594,8 +1594,9 @@
               "category": "So Fresh"
             },
             {
-              "name": "Myskikurpitsaohrattoa",
+              "name": "Meidän keittiön herne-härkäpapukasvispihvejä",
               "diets": [
+                "G",
                 "L",
                 "M",
                 "VEG"
@@ -1604,9 +1605,8 @@
               "category": "Grillistä"
             },
             {
-              "name": "Meidän keittiön herne-härkäpapukasvispihvejä",
+              "name": "Myskikurpitsaohrattoa",
               "diets": [
-                "G",
                 "L",
                 "M",
                 "VEG"
@@ -1626,18 +1626,7 @@
               "category": "Grillistä"
             },
             {
-              "name": "Pähkinäisiä kanelipäärynöitä",
-              "diets": [
-                "G",
-                "L",
-                "M",
-                "VEG"
-              ],
-              "price": "1,50 €",
-              "category": "So Sweet"
-            },
-            {
-              "name": "Kookoskinuskia",
+              "name": "Pähkinäisiä kanelipäärynöitä ja kookoskinuskia",
               "diets": [
                 "G",
                 "L",
@@ -2124,7 +2113,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:58.152Z",
+      "fetchedAt": "2026-08-11T09:12:21.729Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2474,7 +2463,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:59.598Z",
+      "fetchedAt": "2026-08-11T09:12:23.590Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3416,7 +3405,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:59.534Z",
+      "fetchedAt": "2026-08-11T09:12:22.661Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -3701,7 +3690,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:59.404Z",
+      "fetchedAt": "2026-08-11T09:12:22.901Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3990,7 +3979,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-11T05:22:59.687Z",
+      "fetchedAt": "2026-08-11T09:12:23.907Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4221,7 +4210,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:00.682Z",
+      "fetchedAt": "2026-08-11T09:12:24.971Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4742,7 +4731,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:00.326Z",
+      "fetchedAt": "2026-08-11T09:12:23.707Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -5555,7 +5544,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:00.084Z",
+      "fetchedAt": "2026-08-11T09:12:23.720Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -5708,7 +5697,7 @@
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:01.873Z",
+      "fetchedAt": "2026-08-11T09:12:25.378Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -6476,7 +6465,7 @@
           "note": "Ei lounasta tiistaisin — tiistaisin on burgertiistai."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:00.797Z",
+      "fetchedAt": "2026-08-11T09:12:24.477Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6713,7 +6702,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:04.303Z",
+      "fetchedAt": "2026-08-11T09:12:25.399Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6878,7 +6867,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-11T05:23:02.380Z",
+      "fetchedAt": "2026-08-11T09:12:26.321Z",
       "status": "ok",
       "distance": {
         "meters": 667,
