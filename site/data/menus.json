@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:53:40.649Z",
+  "generatedAt": "2026-08-21T08:54:55.309Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -275,7 +275,7 @@
               "price": "14,00 €"
             },
             {
-              "name": "Pihvi 150g kotimaisesta naudan ulkofileestä, paholaisen perunaa, paahdettua vuohenjuustoa ja madeira-basilikakastiketta",
+              "name": "Pihvi 150g kotimaisesta naudan ulkofileestä, paholaisen perunaa, paahdettua vuohenjuustoa ja balsamico-basilikakastiketta",
               "diets": [
                 "L",
                 "G"
@@ -302,7 +302,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:35.193Z",
+      "fetchedAt": "2026-08-21T08:54:49.532Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -548,7 +548,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:35.167Z",
+      "fetchedAt": "2026-08-21T08:54:49.453Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -580,7 +580,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:37.784Z",
+      "fetchedAt": "2026-08-21T08:54:52.059Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -910,7 +910,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:35.987Z",
+      "fetchedAt": "2026-08-21T08:54:50.303Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1180,7 +1180,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:36.331Z",
+      "fetchedAt": "2026-08-21T08:54:50.491Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1237,7 +1237,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:36.221Z",
+      "fetchedAt": "2026-08-21T08:54:50.326Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1879,7 +1879,7 @@
               "category": "Grillistä"
             },
             {
-              "name": "Kantarellikastiketta",
+              "name": "Hollandaisekastiketta",
               "diets": [
                 "G",
                 "L"
@@ -1888,16 +1888,7 @@
               "category": "Grillistä"
             },
             {
-              "name": "Perunamuusia",
-              "diets": [
-                "G",
-                "L"
-              ],
-              "price": "14,00 €",
-              "category": "Grillistä"
-            },
-            {
-              "name": "Paahdettua varsiparsakaalia",
+              "name": "Lohkoperunoita",
               "diets": [
                 "G",
                 "L",
@@ -1908,21 +1899,10 @@
               "category": "Grillistä"
             },
             {
-              "name": "Jogurttipannacottaa",
+              "name": "Jogurttipannacottaa ja karpalohilloketta",
               "diets": [
                 "G",
                 "L"
-              ],
-              "price": "1,50 €",
-              "category": "So Sweet"
-            },
-            {
-              "name": "Karpalohilloketta",
-              "diets": [
-                "G",
-                "L",
-                "M",
-                "VEG"
               ],
               "price": "1,50 €",
               "category": "So Sweet"
@@ -2739,7 +2719,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:36.906Z",
+      "fetchedAt": "2026-08-21T08:54:51.185Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -3681,7 +3661,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:37.858Z",
+      "fetchedAt": "2026-08-21T08:54:52.178Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -4854,7 +4834,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:38.046Z",
+      "fetchedAt": "2026-08-21T08:54:51.720Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -5175,9 +5155,8 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-20T08:53:40.105Z",
-      "status": "stale",
-      "error": "Päivälistoja ei löytynyt sivulta",
+      "fetchedAt": "2026-08-21T08:54:52.386Z",
+      "status": "ok",
       "distance": {
         "meters": 769,
         "minutes": 10,
@@ -5458,9 +5437,8 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-20T08:53:40.365Z",
-      "status": "stale",
-      "error": "Päivälistoja ei löytynyt sivulta",
+      "fetchedAt": "2026-08-21T08:54:52.920Z",
+      "status": "ok",
       "distance": {
         "meters": 796,
         "minutes": 11,
@@ -5720,11 +5698,26 @@
             }
           ],
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
+        },
+        {
+          "date": "2026-09-04",
+          "items": [
+            {
+              "name": "Kebab, pizza tai 12 kpl Hot Wings",
+              "diets": [],
+              "price": "12,50 €"
+            },
+            {
+              "name": "Grilliannokset",
+              "diets": [],
+              "price": "13,90 €"
+            }
+          ],
+          "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-08-20T08:53:41.358Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Ma-Pe 11.00 – 15.00\", \"12,50 €\", \"Grilliannokset lounashintaan 13,90 €\", \"TIISTAIPITA\"",
+      "fetchedAt": "2026-08-21T08:54:53.424Z",
+      "status": "ok",
       "distance": {
         "meters": 1005,
         "minutes": 13,
@@ -6371,7 +6364,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:38.568Z",
+      "fetchedAt": "2026-08-21T08:54:52.961Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -7382,7 +7375,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:39.893Z",
+      "fetchedAt": "2026-08-21T08:54:52.667Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -7555,11 +7548,21 @@
             }
           ],
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
+        },
+        {
+          "date": "2026-09-04",
+          "items": [
+            {
+              "name": "Thaimaalainen buffet: liha- ja kasvisruokia",
+              "diets": [],
+              "price": "13,70 €"
+            }
+          ],
+          "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-20T08:53:41.180Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Arkisin klo 11.00-15.00\", \"13,70\", \"Koskikatu 7\"",
+      "fetchedAt": "2026-08-21T08:54:54.274Z",
+      "status": "ok",
       "distance": {
         "meters": 900,
         "minutes": 12,
@@ -8569,7 +8572,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-08-21T04:53:39.472Z",
+      "fetchedAt": "2026-08-21T08:54:53.626Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -8840,11 +8843,28 @@
             }
           ],
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
+        },
+        {
+          "date": "2026-09-04",
+          "items": [
+            {
+              "name": "Thai-wokit",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Lounasannokset"
+            },
+            {
+              "name": "Salaatit",
+              "diets": [],
+              "price": "14,90 €",
+              "category": "Lounasannokset"
+            }
+          ],
+          "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-20T08:53:42.488Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Kaikki Thai-wokit\", \"Kaikki salaatit\", \"ma-pe 10.30-15\", \"14,90\"",
+      "fetchedAt": "2026-08-21T08:54:54.584Z",
+      "status": "ok",
       "distance": {
         "meters": 1116,
         "minutes": 15,
@@ -9030,11 +9050,22 @@
             }
           ],
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
+        },
+        {
+          "date": "2026-09-04",
+          "items": [
+            {
+              "name": "Intialainen buffetlounas: runsaasti kana-, liha- ja kasvisruokia",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Buffet"
+            }
+          ],
+          "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-20T08:53:42.379Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"buffetlounasta\", \"10.30-15\", \"14€\"",
+      "fetchedAt": "2026-08-21T08:54:55.309Z",
+      "status": "ok",
       "distance": {
         "meters": 667,
         "minutes": 9,
