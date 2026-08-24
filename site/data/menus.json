@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:01:10.042Z",
+  "generatedAt": "2026-08-24T09:01:45.661Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -271,7 +271,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:04.328Z",
+      "fetchedAt": "2026-08-24T09:01:37.358Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -523,7 +523,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:04.325Z",
+      "fetchedAt": "2026-08-24T09:01:37.354Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -555,7 +555,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:06.444Z",
+      "fetchedAt": "2026-08-24T09:01:39.108Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -595,10 +595,252 @@
         "lat": 61.5029803,
         "lng": 23.7601459
       },
-      "days": [],
-      "fetchedAt": "2026-08-21T08:54:50.491Z",
-      "status": "error",
-      "error": "Päivälistoja ei löytynyt sivulta",
+      "days": [
+        {
+          "date": "2026-08-24",
+          "items": [
+            {
+              "name": "Parsakaali-Aurajuustokeitto",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Fish`n chips (friteerattua turskaa ja ranskanperunoita), aioli",
+              "diets": [
+                "M"
+              ]
+            },
+            {
+              "name": "Pinaatti-kasviskiusaus",
+              "diets": [
+                "VEG",
+                "EG"
+              ],
+              "category": "Kasvisruoka"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-25",
+          "items": [
+            {
+              "name": "Paahdettu kesäkurpitsakeitto",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Riistakäristys, puolukkaa",
+              "diets": [
+                "M",
+                "EG"
+              ]
+            },
+            {
+              "name": "Muusi",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Juureskäristys ja seitania",
+              "diets": [
+                "VEG"
+              ],
+              "category": "Kasvisruoka"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-26",
+          "items": [
+            {
+              "name": "Jauhelihakeitto",
+              "diets": [
+                "M",
+                "EG"
+              ]
+            },
+            {
+              "name": "Kanan sisäfilettä tikka masala",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Basmatiriisi",
+              "diets": [
+                "VEG",
+                "EG"
+              ]
+            },
+            {
+              "name": "Kasviksia ja leipäjuustoa tikka masala",
+              "diets": [
+                "L",
+                "EG"
+              ],
+              "category": "Kasvisruoka"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-27",
+          "items": [
+            {
+              "name": "Pinaattikeitto, kananmunaa",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Porsaan kassleria, tomaatti-tuorejuustokastike",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Lohkoperunat",
+              "diets": [
+                "VEG",
+                "EG"
+              ]
+            },
+            {
+              "name": "Tofua, tomaatti-tuorejuustokastike",
+              "diets": [
+                "L",
+                "EG"
+              ],
+              "category": "Kasvisruoka"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-28",
+          "items": [
+            {
+              "name": "Aasilainen kalakeitto",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Texmex-paistos",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Paahtoperunat",
+              "diets": [
+                "VEG",
+                "EG"
+              ]
+            },
+            {
+              "name": "Texmex-papupaistos",
+              "diets": [
+                "L",
+                "EG"
+              ],
+              "category": "Kasvisruoka"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-29",
+          "items": [
+            {
+              "name": "Tuoremakkarakeitto, hapankaalia ja valkosipulimajoneesi",
+              "diets": [
+                "M",
+                "EG"
+              ]
+            },
+            {
+              "name": "Paahdettua kirjolohta meksikolaisittain",
+              "diets": [
+                "M",
+                "EG"
+              ]
+            },
+            {
+              "name": "Uunilohkoperunaa",
+              "diets": [
+                "VEG",
+                "EG"
+              ]
+            },
+            {
+              "name": "Paahdettua nyhtökauraa ja kasviksia meksikolaisittain",
+              "diets": [
+                "VEG",
+                "EG"
+              ],
+              "category": "Kasvisruoka"
+            },
+            {
+              "name": "Omenapiirakka, vaniljakastike",
+              "diets": [
+                "L"
+              ],
+              "category": "Jälkiruoka"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-30",
+          "items": [
+            {
+              "name": "Broileri-cheddarjuustokeitto",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Härän ulkofilettä, tumma kahvikastike",
+              "diets": [
+                "M",
+                "EG"
+              ]
+            },
+            {
+              "name": "Muusi",
+              "diets": [
+                "L",
+                "EG"
+              ]
+            },
+            {
+              "name": "Punajuuri-sienipihvi, kurkkumajoneesi",
+              "diets": [
+                "L",
+                "EG"
+              ],
+              "category": "Kasvisruoka"
+            },
+            {
+              "name": "Marjarahka",
+              "diets": [
+                "L"
+              ],
+              "category": "Jälkiruoka"
+            }
+          ]
+        }
+      ],
+      "fetchedAt": "2026-08-24T09:01:38.002Z",
+      "status": "ok",
       "distance": {
         "meters": 544,
         "minutes": 7,
@@ -769,7 +1011,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:04.913Z",
+      "fetchedAt": "2026-08-24T09:01:37.780Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1584,7 +1826,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:05.550Z",
+      "fetchedAt": "2026-08-24T09:01:38.173Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2285,7 +2527,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:06.698Z",
+      "fetchedAt": "2026-08-24T09:01:39.329Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3150,7 +3392,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:06.594Z",
+      "fetchedAt": "2026-08-24T09:01:39.465Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -3460,7 +3702,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:06.128Z",
+      "fetchedAt": "2026-08-24T09:01:39.775Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3737,7 +3979,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:07.840Z",
+      "fetchedAt": "2026-08-24T09:01:39.943Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -3946,7 +4188,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:08.439Z",
+      "fetchedAt": "2026-08-24T09:01:41.107Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4427,7 +4669,8 @@
         }
       ],
       "fetchedAt": "2026-08-24T05:01:07.387Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "fetch failed",
       "distance": {
         "meters": 900,
         "minutes": 12,
@@ -5173,7 +5416,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:06.968Z",
+      "fetchedAt": "2026-08-24T09:01:40.010Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -5315,7 +5558,7 @@
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:08.314Z",
+      "fetchedAt": "2026-08-24T09:01:42.477Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -6077,7 +6320,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:08.022Z",
+      "fetchedAt": "2026-08-24T09:01:40.944Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6296,7 +6539,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:10.042Z",
+      "fetchedAt": "2026-08-24T09:01:45.661Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6449,7 +6692,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-24T05:01:09.406Z",
+      "fetchedAt": "2026-08-24T09:01:42.870Z",
       "status": "ok",
       "distance": {
         "meters": 667,
