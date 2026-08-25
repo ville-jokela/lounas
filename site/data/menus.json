@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:53:18.395Z",
+  "generatedAt": "2026-08-25T08:56:36.850Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -58,8 +58,7 @@
               "name": "Punajuuri-halloumipihviä, halloumia, röstiperunaa, tomaattia ja minttua sekä fetakastiketta",
               "diets": [
                 "L",
-                "G",
-                "VEG*"
+                "G"
               ],
               "category": "Kasvisannos",
               "price": "14,00 €"
@@ -271,7 +270,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:08.378Z",
+      "fetchedAt": "2026-08-25T08:56:31.818Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -523,7 +522,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:08.374Z",
+      "fetchedAt": "2026-08-25T08:56:31.814Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -555,7 +554,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:10.916Z",
+      "fetchedAt": "2026-08-25T08:56:33.622Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -839,7 +838,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:09.356Z",
+      "fetchedAt": "2026-08-25T08:56:32.656Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -984,7 +983,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:09.006Z",
+      "fetchedAt": "2026-08-25T08:56:32.143Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1221,7 +1220,8 @@
             {
               "name": "Lihapullia BBQ ja cheddarkastikkeessa",
               "diets": [
-                "L"
+                "L",
+                "G"
               ],
               "price": "14,00 €",
               "category": "So Good"
@@ -1286,18 +1286,7 @@
               "category": "Grillistä"
             },
             {
-              "name": "Uunibanaania",
-              "diets": [
-                "G",
-                "L",
-                "M",
-                "VEG"
-              ],
-              "price": "1,50 €",
-              "category": "So Sweet"
-            },
-            {
-              "name": "Kinuskikermavaahtoa",
+              "name": "Uunibanaania ja kinuskikermavaahtoa",
               "diets": [
                 "G",
                 "L"
@@ -1799,7 +1788,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:09.612Z",
+      "fetchedAt": "2026-08-25T08:56:32.844Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2568,7 +2557,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:11.484Z",
+      "fetchedAt": "2026-08-25T08:56:34.382Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3510,7 +3499,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:10.743Z",
+      "fetchedAt": "2026-08-25T08:56:33.879Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -3820,7 +3809,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:10.986Z",
+      "fetchedAt": "2026-08-25T08:56:33.789Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -4097,7 +4086,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:12.016Z",
+      "fetchedAt": "2026-08-25T08:56:34.469Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4328,7 +4317,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:12.812Z",
+      "fetchedAt": "2026-08-25T08:56:36.850Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4849,7 +4838,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:11.960Z",
+      "fetchedAt": "2026-08-25T08:56:34.515Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -5662,7 +5651,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:11.619Z",
+      "fetchedAt": "2026-08-25T08:56:34.480Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -5815,7 +5804,7 @@
           "note": "Sisältää salaattipöydän ja keiton. Jälkiruoaksi leivonnaisia, lettuja ja jäätelöä kahvin tai teen kera. Lapset 1 € / ikävuosi (1–13 v.)."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:13.121Z",
+      "fetchedAt": "2026-08-25T08:56:35.677Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -6583,7 +6572,7 @@
           "note": "Ei lounasta tiistaisin — tiistaisin on burgertiistai."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:12.810Z",
+      "fetchedAt": "2026-08-25T08:56:35.069Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6820,7 +6809,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:18.395Z",
+      "fetchedAt": "2026-08-25T08:56:36.049Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6985,7 +6974,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-08-25T04:53:14.430Z",
+      "fetchedAt": "2026-08-25T08:56:36.550Z",
       "status": "ok",
       "distance": {
         "meters": 667,
