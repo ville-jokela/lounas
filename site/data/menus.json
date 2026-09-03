@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:55:50.201Z",
+  "generatedAt": "2026-09-03T12:47:49.437Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -302,7 +302,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:45.667Z",
+      "fetchedAt": "2026-09-03T12:47:43.405Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -559,7 +559,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:45.662Z",
+      "fetchedAt": "2026-09-03T12:47:43.402Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -591,7 +591,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:47.390Z",
+      "fetchedAt": "2026-09-03T12:47:45.216Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -933,7 +933,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:46.176Z",
+      "fetchedAt": "2026-09-03T12:47:44.057Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1182,7 +1182,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:46.520Z",
+      "fetchedAt": "2026-09-03T12:47:44.261Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1268,7 +1268,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:46.052Z",
+      "fetchedAt": "2026-09-03T12:47:44.292Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1955,9 +1955,790 @@
               "category": "KAHVILASTA - Päivän pinsa"
             }
           ]
+        },
+        {
+          "date": "2026-09-07",
+          "items": [
+            {
+              "name": "Linssi-tandooricurrya ja Gold&Green®-suikaleita",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Riisiä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Seifileetä ja pestokasviksia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Perunamuusia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Lihapullia",
+              "diets": [
+                "G",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Kermakastiketta",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Hillottua puolukkaa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Satokauden kasviksia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Salaattijuustoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Tonnikalaa",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Uuniperunaa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Katkaraputäytettä",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Marinoitua kurkkua",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Tyrnirahkaa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Peruna-purjososekeittoa ja persiljaa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "10,00 €",
+              "category": "KAHVILASTA - So Warm"
+            },
+            {
+              "name": "Päivän pinsa",
+              "diets": [],
+              "price": "5,90 € / 11,90 €",
+              "category": "KAHVILASTA - Päivän pinsa"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "items": [
+            {
+              "name": "Punajuuri falafelpihvejä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Porkkana-kikhernehummusta",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Broileria ja penneä limonellokastikkeessa",
+              "diets": [
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Pikkelöityä chiliä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Pastajuustoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Mureaa possua tryffelikastikkeessa",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Kermaperunoita",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Satokauden kasviksia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Basilikalla ja hunajalla maustettua broileria",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Korean BBQ Tofu",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Myskikurpitsaohrattoa",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Meidän keittiön herne-härkäpapukasvispihvejä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Herneenversopistouta",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Pähkinäisiä kanelipäärynöitä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Kookoskinuskia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Linssisosekeittoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "10,00 €",
+              "category": "KAHVILASTA - So Warm"
+            },
+            {
+              "name": "Päivän pinsa",
+              "diets": [],
+              "price": "5,90 € / 11,90 €",
+              "category": "KAHVILASTA - Päivän pinsa"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "items": [
+            {
+              "name": "Luomutofua ja kasviksia hapanimeläkastikkeessa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Riisiä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Tuorejuustotäytteisiä kirjolohipihvejä",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Marinoitua lehtikaalia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Ruohosipuliranskankermakastiketta",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Broileria inkivääri-chilikastikkeessa",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Paahdettua perunaa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Satokauden kasviksia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Barbecuemaustettua porsaan ulkofileetä",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Maapähkinä marinoitua nyhtökauraa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Kebab ranskalaisilla",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Ruismurupaistosta ja mustikkaa",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Vaniljakermavaahtoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Kukkakaalisosekeittoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "10,00 €",
+              "category": "KAHVILASTA - So Warm"
+            },
+            {
+              "name": "Päivän pinsa",
+              "diets": [],
+              "price": "5,90 € / 11,90 €",
+              "category": "KAHVILASTA - Päivän pinsa"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "items": [
+            {
+              "name": "Currylla maustettuja kukkakaalipyöryköitä - Aloo Gobi",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Limellä maustettua kurkku-soijagurttia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Riisiä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Perinteisiä silakkapihvejä",
+              "diets": [
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Tillikermaviiliä",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Perunamuusia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Artesaanimakkaraa, salsiccia ja bratvurstia",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Smetanassa haudutettua hapankaalia ja omenaa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Karamellisoitua ruusukaalia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Manchegojuustoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Vönerlastuja",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Nyhtöbroileribowl",
+              "diets": [
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Vaniljamoussea ja herukkaa",
+              "diets": [
+                "L"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Vegaanista hernesosekeittoa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "10,00 €",
+              "category": "KAHVILASTA - So Warm"
+            },
+            {
+              "name": "Päivän pinsa",
+              "diets": [],
+              "price": "5,90 € / 11,90 €",
+              "category": "KAHVILASTA - Päivän pinsa"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "items": [
+            {
+              "name": "Maustettua nyhtökauraa ja kevätsipulia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Tuoretomaattisalsaa",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Guacamolejogurttia",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Kurkumariisiä",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Jauhelihachiliä",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Barbeque -broileria ja maissia",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Vehnätortilla",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Satokauden kasviksia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "So Good"
+            },
+            {
+              "name": "Rapeaa kanaa - Crispy chicken",
+              "diets": [
+                "G",
+                "L",
+                "M"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Emmentaljuustoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "So Fresh"
+            },
+            {
+              "name": "Briossi BRG, paahdettua halloumia ja kukkakaalia",
+              "diets": [
+                "L"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Ranskalaisia perunoita",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "Grillistä"
+            },
+            {
+              "name": "Mansikkarahkaa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "1,50 €",
+              "category": "So Sweet"
+            },
+            {
+              "name": "Myskikurpitsasosekeittoa",
+              "diets": [
+                "G",
+                "L"
+              ],
+              "price": "10,00 €",
+              "category": "KAHVILASTA - So Warm"
+            },
+            {
+              "name": "Päivän pinsa",
+              "diets": [],
+              "price": "5,90 € / 11,90 €",
+              "category": "KAHVILASTA - Päivän pinsa"
+            }
+          ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:46.554Z",
+      "fetchedAt": "2026-09-03T12:47:45.246Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2860,7 +3641,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:47.821Z",
+      "fetchedAt": "2026-09-03T12:47:45.556Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3481,9 +4262,9 @@
               "price": "15,80 €"
             },
             {
-              "name": "Hikkori savustettua porsaanlapaa ja timjamikastiketta",
+              "name": "Paahdettua porsasta ja viherpippurikastiketta",
               "diets": [
-                "M",
+                "L",
                 "G"
               ],
               "category": "Tammerin Kellarin noutopöytälounas"
@@ -3879,7 +4660,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:47.666Z",
+      "fetchedAt": "2026-09-03T12:47:45.562Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -4197,7 +4978,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:47.441Z",
+      "fetchedAt": "2026-09-03T12:47:46.659Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -4479,7 +5260,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:48.181Z",
+      "fetchedAt": "2026-09-03T12:47:48.110Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4742,7 +5523,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:49.038Z",
+      "fetchedAt": "2026-09-03T12:47:47.699Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -5348,7 +6129,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:48.184Z",
+      "fetchedAt": "2026-09-03T12:47:46.361Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -6293,7 +7074,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:47.886Z",
+      "fetchedAt": "2026-09-03T12:47:46.672Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -7377,7 +8158,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:48.890Z",
+      "fetchedAt": "2026-09-03T12:47:47.346Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -7650,7 +8431,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:49.731Z",
+      "fetchedAt": "2026-09-03T12:47:49.436Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -7839,7 +8620,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-09-03T08:55:50.200Z",
+      "fetchedAt": "2026-09-03T12:47:49.324Z",
       "status": "ok",
       "distance": {
         "meters": 667,
