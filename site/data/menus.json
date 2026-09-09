@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:57:48.121Z",
+  "generatedAt": "2026-09-09T12:56:38.162Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -301,7 +301,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:42.425Z",
+      "fetchedAt": "2026-09-09T12:56:33.036Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -531,7 +531,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:42.410Z",
+      "fetchedAt": "2026-09-09T12:56:33.016Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -563,7 +563,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:44.901Z",
+      "fetchedAt": "2026-09-09T12:56:35.271Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -904,7 +904,8 @@
         }
       ],
       "fetchedAt": "2026-09-09T08:57:43.335Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "HTTP 403 Forbidden — https://plevna.fi/lounaslista/",
       "distance": {
         "meters": 326,
         "minutes": 4,
@@ -1175,7 +1176,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:43.402Z",
+      "fetchedAt": "2026-09-09T12:56:34.054Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1288,7 +1289,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:42.900Z",
+      "fetchedAt": "2026-09-09T12:56:33.665Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -2048,7 +2049,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:44.088Z",
+      "fetchedAt": "2026-09-09T12:56:35.285Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2894,7 +2895,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:45.181Z",
+      "fetchedAt": "2026-09-09T12:56:35.051Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3813,7 +3814,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:45.100Z",
+      "fetchedAt": "2026-09-09T12:56:35.237Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -4130,7 +4131,8 @@
         }
       ],
       "fetchedAt": "2026-09-09T08:57:45.407Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "Päivälistoja ei löytynyt sivulta",
       "distance": {
         "meters": 769,
         "minutes": 10,
@@ -4412,7 +4414,8 @@
         }
       ],
       "fetchedAt": "2026-09-09T08:57:45.576Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "Päivälistoja ei löytynyt sivulta",
       "distance": {
         "meters": 796,
         "minutes": 11,
@@ -4659,7 +4662,8 @@
         }
       ],
       "fetchedAt": "2026-09-09T08:57:46.557Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Ma-Pe 11.00 – 15.00\", \"12,50 €\", \"Grilliannokset lounashintaan 13,90 €\", \"TIISTAIPITA\"",
       "distance": {
         "meters": 1005,
         "minutes": 13,
@@ -5221,7 +5225,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:45.943Z",
+      "fetchedAt": "2026-09-09T12:56:35.993Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -6100,7 +6104,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:45.613Z",
+      "fetchedAt": "2026-09-09T12:56:36.351Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -6200,7 +6204,7 @@
       ],
       "fetchedAt": "2026-09-01T13:28:17.052Z",
       "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"13,70\"",
+      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Arkisin klo 11.00-15.00\", \"13,70\", \"Koskikatu 7\"",
       "distance": {
         "meters": 900,
         "minutes": 12,
@@ -7048,7 +7052,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-09-09T08:57:46.712Z",
+      "fetchedAt": "2026-09-09T12:56:37.078Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -7304,7 +7308,8 @@
         }
       ],
       "fetchedAt": "2026-09-09T08:57:47.609Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Kaikki Thai-wokit\", \"Kaikki salaatit\", \"ma-pe 10.30-15\", \"14,90\"",
       "distance": {
         "meters": 1116,
         "minutes": 15,
@@ -7481,7 +7486,8 @@
         }
       ],
       "fetchedAt": "2026-09-09T08:57:48.120Z",
-      "status": "ok",
+      "status": "stale",
+      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"buffetlounasta\", \"10.30-15\", \"14€\"",
       "distance": {
         "meters": 667,
         "minutes": 9,
