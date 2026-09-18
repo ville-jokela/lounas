@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:59:51.267Z",
+  "generatedAt": "2026-09-18T12:56:34.341Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -300,7 +300,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:43.023Z",
+      "fetchedAt": "2026-09-18T12:56:25.902Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -541,7 +541,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:43.025Z",
+      "fetchedAt": "2026-09-18T12:56:25.888Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -573,7 +573,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:45.080Z",
+      "fetchedAt": "2026-09-18T12:56:28.318Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -903,7 +903,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:43.678Z",
+      "fetchedAt": "2026-09-18T12:56:26.634Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1162,7 +1162,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:43.989Z",
+      "fetchedAt": "2026-09-18T12:56:26.825Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1219,7 +1219,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:43.542Z",
+      "fetchedAt": "2026-09-18T12:56:26.933Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -2661,7 +2661,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:44.267Z",
+      "fetchedAt": "2026-09-18T12:56:27.723Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -3602,7 +3602,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:45.132Z",
+      "fetchedAt": "2026-09-18T12:56:28.498Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -4660,7 +4660,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:45.376Z",
+      "fetchedAt": "2026-09-18T12:56:28.216Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -4977,7 +4977,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:45.361Z",
+      "fetchedAt": "2026-09-18T12:56:30.036Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -5257,7 +5257,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:45.968Z",
+      "fetchedAt": "2026-09-18T12:56:30.616Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -5536,7 +5536,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:46.416Z",
+      "fetchedAt": "2026-09-18T12:56:30.297Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -6184,7 +6184,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:46.078Z",
+      "fetchedAt": "2026-09-18T12:56:29.160Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -7195,7 +7195,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:45.874Z",
+      "fetchedAt": "2026-09-18T12:56:29.267Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -8250,7 +8250,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:46.800Z",
+      "fetchedAt": "2026-09-18T12:56:31.123Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -8541,7 +8541,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:51.266Z",
+      "fetchedAt": "2026-09-18T12:56:34.341Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -8742,7 +8742,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-09-18T08:59:50.294Z",
+      "fetchedAt": "2026-09-18T12:56:32.451Z",
       "status": "ok",
       "distance": {
         "meters": 667,
