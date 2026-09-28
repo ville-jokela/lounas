@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:53:24.439Z",
+  "generatedAt": "2026-09-28T16:43:47.935Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -306,7 +306,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:20.167Z",
+      "fetchedAt": "2026-09-28T16:43:40.134Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -558,7 +558,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:20.164Z",
+      "fetchedAt": "2026-09-28T16:43:40.131Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -590,7 +590,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:22.001Z",
+      "fetchedAt": "2026-09-28T16:43:42.179Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -921,7 +921,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:20.642Z",
+      "fetchedAt": "2026-09-28T16:43:40.734Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1183,7 +1183,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:20.805Z",
+      "fetchedAt": "2026-09-28T16:43:41.153Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1374,7 +1374,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:20.599Z",
+      "fetchedAt": "2026-09-28T16:43:41.077Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -2096,7 +2096,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:21.030Z",
+      "fetchedAt": "2026-09-28T16:43:41.270Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2812,7 +2812,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:21.878Z",
+      "fetchedAt": "2026-09-28T16:43:42.367Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -3593,7 +3593,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:22.062Z",
+      "fetchedAt": "2026-09-28T16:43:43.409Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -3921,7 +3921,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:21.857Z",
+      "fetchedAt": "2026-09-28T16:43:42.499Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -4031,6 +4031,13 @@
               ]
             },
             {
+              "name": "Parsakaali-sulatejuustokeitto",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
               "name": "Kasvisruoka: Teriyakitofua V,",
               "diets": [
                 "G"
@@ -4091,6 +4098,13 @@
               ]
             },
             {
+              "name": "Maa-artisokkakeittoa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
               "name": "Omenarahkaa ja keksejä",
               "diets": []
             }
@@ -4135,6 +4149,13 @@
             },
             {
               "name": "Kasvisruoka: Kasvispihvejä sekä remoulade-kastiketta",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Porkkana-inkiväärikeittoa",
               "diets": [
                 "L",
                 "G"
@@ -4192,6 +4213,13 @@
               ]
             },
             {
+              "name": "Vuohenjuusto-tomaattikeittoa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
               "name": "Porkkanapiirakkaa",
               "diets": [
                 "L"
@@ -4200,7 +4228,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:22.051Z",
+      "fetchedAt": "2026-09-28T16:43:44.435Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4409,7 +4437,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:23.511Z",
+      "fetchedAt": "2026-09-28T16:43:44.261Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4889,7 +4917,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:22.565Z",
+      "fetchedAt": "2026-09-28T16:43:43.220Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -5636,7 +5664,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:22.164Z",
+      "fetchedAt": "2026-09-28T16:43:43.555Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -6419,7 +6447,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:22.848Z",
+      "fetchedAt": "2026-09-28T16:43:44.330Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6638,7 +6666,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:23.690Z",
+      "fetchedAt": "2026-09-28T16:43:47.934Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6791,7 +6819,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-09-28T10:53:24.438Z",
+      "fetchedAt": "2026-09-28T16:43:45.964Z",
       "status": "ok",
       "distance": {
         "meters": 667,
