@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:29:49.580Z",
+  "generatedAt": "2026-10-02T14:42:43.400Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:44.867Z",
+      "fetchedAt": "2026-10-02T14:42:34.316Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -554,7 +554,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:44.839Z",
+      "fetchedAt": "2026-10-02T14:42:34.306Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -576,9 +576,9 @@
       "days": [],
       "images": [
         {
-          "url": "data/images/finlayson-711268001591.png",
+          "url": "data/images/finlayson-8393a9d9ccf7.png",
           "caption": "Lämmin lounas",
-          "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/09/NETTISIVUT_28.9.26-1024x1024.png"
+          "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/10/NETTISIVUT_ENSIVIIKKO_5.10-1024x1024.png"
         },
         {
           "url": "data/images/finlayson-f02866b79db5.png",
@@ -586,7 +586,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:46.961Z",
+      "fetchedAt": "2026-10-02T14:42:36.518Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -607,31 +607,24 @@
       },
       "days": [
         {
-          "date": "2026-09-28",
+          "date": "2026-10-05",
           "items": [
             {
-              "name": "Lihapullia tummassa pippurikastikkeessa",
+              "name": "Lihapullia tummassa valkosipulikastikkeessa",
               "diets": [
                 "L",
                 "G"
               ]
             },
             {
-              "name": "Bolognesekastiketta jauhelihasta",
+              "name": "Aurajuustokanaa",
               "diets": [
                 "L",
                 "G"
               ]
             },
             {
-              "name": "Gratinoitua kukkakaalia",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Paistettuja kasviksia",
+              "name": "Chiliparsakaalia",
               "diets": [
                 "L",
                 "M",
@@ -640,70 +633,12 @@
               ]
             },
             {
-              "name": "Perunamuusia",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Pennepastaa",
-              "diets": [
-                "L",
-                "M",
-                "VEG"
-              ]
-            },
-            {
-              "name": "Vegaanista bolognesea",
+              "name": "Yrttijuureksia",
               "diets": [
                 "L",
                 "M",
                 "G",
                 "VEG"
-              ],
-              "category": "Kasvisvaihtoehto"
-            }
-          ]
-        },
-        {
-          "date": "2026-09-29",
-          "items": [
-            {
-              "name": "Lohikeittoa",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Chili-limelohta",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Kunnon makkarakastiketta",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Kasvismix",
-              "diets": [
-                "L",
-                "M",
-                "G",
-                "VEG"
-              ]
-            },
-            {
-              "name": "Kesäkurpitsapaistosta",
-              "diets": [
-                "L",
-                "G"
               ]
             },
             {
@@ -716,7 +651,7 @@
               ]
             },
             {
-              "name": "Paahdettua perunaa",
+              "name": "Pikkuperunoita",
               "diets": [
                 "L",
                 "M",
@@ -725,7 +660,7 @@
               ]
             },
             {
-              "name": "Kookos-linssicurrya",
+              "name": "Vegaanisia pyöryköitä makeassa chilikastikkeessa",
               "diets": [
                 "L",
                 "M",
@@ -737,23 +672,31 @@
           ]
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-06",
           "items": [
             {
-              "name": "Porsaanleikettä ja choronkastiketta",
-              "diets": [
-                "L"
-              ]
-            },
-            {
-              "name": "Riistakäristystä",
+              "name": "Lohikeittoa",
               "diets": [
                 "L",
                 "G"
               ]
             },
             {
-              "name": "Haudutettua kaalia",
+              "name": "Kirjolohipyöryköitä ja tillikermaviiliä",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Panimomestarin pyttipannua",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Yrttiporkkanoita",
               "diets": [
                 "L",
                 "M",
@@ -762,19 +705,12 @@
               ]
             },
             {
-              "name": "Paahdettua lanttua ja porkkanaa",
+              "name": "Grillattua punajuurta",
               "diets": [
                 "L",
                 "M",
                 "G",
                 "VEG"
-              ]
-            },
-            {
-              "name": "Perunamuusia",
-              "diets": [
-                "L",
-                "G"
               ]
             },
             {
@@ -787,61 +723,7 @@
               ]
             },
             {
-              "name": "Vegaanista käristystä",
-              "diets": [
-                "L",
-                "M",
-                "VEG"
-              ],
-              "category": "Kasvisvaihtoehto"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-01",
-          "items": [
-            {
-              "name": "Broilerin paistia barbequekastikkeessa",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Kinkkukiusausta",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Parsakaaligratiinia",
-              "diets": [
-                "L",
-                "M",
-                "G",
-                "VEG"
-              ]
-            },
-            {
-              "name": "Hunajaisia pikkuporkkanoita",
-              "diets": [
-                "L",
-                "M",
-                "G"
-              ]
-            },
-            {
-              "name": "Riisiä",
-              "diets": [
-                "L",
-                "M",
-                "G",
-                "VEG"
-              ]
-            },
-            {
-              "name": "Savutofua barbequekastikkeessa",
+              "name": "Kasvispyttipannua",
               "diets": [
                 "L",
                 "M",
@@ -853,25 +735,23 @@
           ]
         },
         {
-          "date": "2026-10-02",
+          "date": "2026-10-07",
           "items": [
             {
-              "name": "Currywurstia",
+              "name": "Porsaanleikettä herkkusienikastikkeella",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Jauhelihapihviä tomaatti-kermakastikkeella",
               "diets": [
                 "L",
-                "M",
                 "G"
               ]
             },
             {
-              "name": "Karjalanpaistia",
-              "diets": [
-                "L",
-                "G"
-              ]
-            },
-            {
-              "name": "Uunijuureksia",
+              "name": "Haudutettua hapankaalia",
               "diets": [
                 "L",
                 "M",
@@ -880,7 +760,7 @@
               ]
             },
             {
-              "name": "Munakoisoa valkosipulilla ja tomaatilla",
+              "name": "Höyrytettyjä kasviksia",
               "diets": [
                 "L",
                 "M",
@@ -896,6 +776,115 @@
               ]
             },
             {
+              "name": "Pariisinperunoita",
+              "diets": [
+                "L",
+                "M",
+                "G",
+                "VEG"
+              ]
+            },
+            {
+              "name": "Tofupataa",
+              "diets": [
+                "L",
+                "M",
+                "G",
+                "VEG"
+              ],
+              "category": "Kasvisvaihtoehto"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "items": [
+            {
+              "name": "Vuohenjuustobroileria timjamikastikkeella",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Lasagnea",
+              "diets": [
+                "L"
+              ]
+            },
+            {
+              "name": "Tomaatti-kesäkurpitsapaistosta",
+              "diets": [
+                "L",
+                "M",
+                "G",
+                "VEG"
+              ]
+            },
+            {
+              "name": "Uunikasviksia",
+              "diets": [
+                "L",
+                "M",
+                "G",
+                "VEG"
+              ]
+            },
+            {
+              "name": "Yrttiriisiä",
+              "diets": [
+                "L",
+                "M",
+                "G",
+                "VEG"
+              ]
+            },
+            {
+              "name": "Vegaanista lasagnea",
+              "diets": [
+                "L",
+                "M",
+                "VEG"
+              ],
+              "category": "Kasvisvaihtoehto"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "items": [
+            {
+              "name": "Currywurstia",
+              "diets": [
+                "L",
+                "M",
+                "G"
+              ]
+            },
+            {
+              "name": "Broileria chimichurri-kastikkeella",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Kukkakaalipaistosta",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Uunikasviksia",
+              "diets": [
+                "L",
+                "M",
+                "G",
+                "VEG"
+              ]
+            },
+            {
               "name": "Lohkoperunoita",
               "diets": [
                 "L",
@@ -905,7 +894,14 @@
               ]
             },
             {
-              "name": "Vegaanista gulassipataa",
+              "name": "Perunamuusia",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Lempeän tulista papupataa",
               "diets": [
                 "L",
                 "M",
@@ -917,7 +913,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:45.335Z",
+      "fetchedAt": "2026-10-02T14:42:34.955Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1179,7 +1175,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:45.919Z",
+      "fetchedAt": "2026-10-02T14:42:35.407Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1234,7 +1230,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:46.038Z",
+      "fetchedAt": "2026-10-02T14:42:35.373Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -2689,7 +2685,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:46.053Z",
+      "fetchedAt": "2026-10-02T14:42:35.833Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -3652,7 +3648,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:47.633Z",
+      "fetchedAt": "2026-10-02T14:42:37.040Z",
       "status": "ok",
       "distance": {
         "meters": 886,
@@ -4710,7 +4706,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:47.667Z",
+      "fetchedAt": "2026-10-02T14:42:37.841Z",
       "status": "ok",
       "distance": {
         "meters": 649,
@@ -5038,9 +5034,8 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-01T15:25:12.246Z",
-      "status": "stale",
-      "error": "Päivälistoja ei löytynyt sivulta",
+      "fetchedAt": "2026-10-02T14:42:41.358Z",
+      "status": "ok",
       "distance": {
         "meters": 769,
         "minutes": 10,
@@ -5346,9 +5341,8 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-01T15:25:01.084Z",
-      "status": "stale",
-      "error": "Päivälistoja ei löytynyt sivulta",
+      "fetchedAt": "2026-10-02T14:42:39.009Z",
+      "status": "ok",
       "distance": {
         "meters": 796,
         "minutes": 11,
@@ -5608,11 +5602,26 @@
             }
           ],
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
+        },
+        {
+          "date": "2026-10-16",
+          "items": [
+            {
+              "name": "Kebab, pizza tai 12 kpl Hot Wings",
+              "diets": [],
+              "price": "12,50 €"
+            },
+            {
+              "name": "Grilliannokset",
+              "diets": [],
+              "price": "13,90 €"
+            }
+          ],
+          "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-10-01T15:25:01.087Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Ma-Pe 11.00 – 15.00\", \"12,50 €\", \"Grilliannokset lounashintaan 13,90 €\", \"TIISTAIPITA\"",
+      "fetchedAt": "2026-10-02T14:42:38.882Z",
+      "status": "ok",
       "distance": {
         "meters": 1005,
         "minutes": 13,
@@ -6259,7 +6268,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:48.336Z",
+      "fetchedAt": "2026-10-02T14:42:38.489Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -7270,7 +7279,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:48.107Z",
+      "fetchedAt": "2026-10-02T14:42:38.815Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -7292,7 +7301,7 @@
       "days": [],
       "fetchedAt": "2026-09-01T13:28:17.052Z",
       "status": "error",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Arkisin klo 11.00-15.00\", \"13,70\", \"Koskikatu 7\"",
+      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"13,70\"",
       "distance": {
         "meters": 900,
         "minutes": 12,
@@ -8302,7 +8311,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-10-02T10:29:48.753Z",
+      "fetchedAt": "2026-10-02T14:42:39.574Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -8573,11 +8582,28 @@
             }
           ],
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
+        },
+        {
+          "date": "2026-10-16",
+          "items": [
+            {
+              "name": "Thai-wokit",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Lounasannokset"
+            },
+            {
+              "name": "Salaatit",
+              "diets": [],
+              "price": "14,90 €",
+              "category": "Lounasannokset"
+            }
+          ],
+          "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-10-01T15:25:02.621Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"Kaikki Thai-wokit\", \"Kaikki salaatit\", \"ma-pe 10.30-15\", \"14,90\"",
+      "fetchedAt": "2026-10-02T14:42:43.399Z",
+      "status": "ok",
       "distance": {
         "meters": 1116,
         "minutes": 15,
@@ -8763,11 +8789,22 @@
             }
           ],
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
+        },
+        {
+          "date": "2026-10-16",
+          "items": [
+            {
+              "name": "Intialainen buffetlounas: runsaasti kana-, liha- ja kasvisruokia",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Buffet"
+            }
+          ],
+          "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-10-01T15:25:03.603Z",
-      "status": "stale",
-      "error": "Sivun sisältö on muuttunut, tarkista adapterin tiedot. Puuttuu: \"buffetlounasta\", \"10.30-15\", \"14€\"",
+      "fetchedAt": "2026-10-02T14:42:41.134Z",
+      "status": "ok",
       "distance": {
         "meters": 667,
         "minutes": 9,
