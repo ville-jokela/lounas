@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:21:16.653Z",
+  "generatedAt": "2026-10-21T13:43:28.561Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -302,7 +302,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:09.391Z",
+      "fetchedAt": "2026-10-21T13:43:23.342Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -546,7 +546,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:09.399Z",
+      "fetchedAt": "2026-10-21T13:43:23.353Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -578,7 +578,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:10.929Z",
+      "fetchedAt": "2026-10-21T13:43:25.739Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -919,7 +919,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:10.017Z",
+      "fetchedAt": "2026-10-21T13:43:23.659Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1190,7 +1190,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:10.172Z",
+      "fetchedAt": "2026-10-21T13:43:24.489Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1313,7 +1313,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:09.845Z",
+      "fetchedAt": "2026-10-21T13:43:24.411Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -2072,7 +2072,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:10.447Z",
+      "fetchedAt": "2026-10-21T13:43:24.866Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -3596,7 +3596,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:11.075Z",
+      "fetchedAt": "2026-10-21T13:43:27.248Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3914,7 +3914,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:11.014Z",
+      "fetchedAt": "2026-10-21T13:43:25.734Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4161,7 +4161,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:12.151Z",
+      "fetchedAt": "2026-10-21T13:43:26.673Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4724,7 +4724,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:11.622Z",
+      "fetchedAt": "2026-10-21T13:43:26.325Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -5603,7 +5603,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:11.151Z",
+      "fetchedAt": "2026-10-21T13:43:26.053Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -6473,7 +6473,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:11.687Z",
+      "fetchedAt": "2026-10-21T13:43:27.068Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6728,7 +6728,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:16.653Z",
+      "fetchedAt": "2026-10-21T13:43:28.441Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6905,7 +6905,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-10-21T09:21:13.154Z",
+      "fetchedAt": "2026-10-21T13:43:28.560Z",
       "status": "ok",
       "distance": {
         "meters": 667,
