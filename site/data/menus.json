@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:33:40.298Z",
+  "generatedAt": "2026-10-28T15:03:37.049Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -66,7 +66,7 @@
               "price": "39,90 €"
             },
             {
-              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, paahdettua kelta- ja raitajuurta, sinisimpukkaa ja savuvoi-valkoviinikastiketta",
+              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, kvinoaa sekä paahdettua kelta- ja raitajuurta, salottisipulia ja savuvoi-beurre blanc (L, G*)",
               "diets": [
                 "L",
                 "G"
@@ -123,7 +123,7 @@
               "price": "39,90 €"
             },
             {
-              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, paahdettua kelta- ja raitajuurta, sinisimpukkaa ja savuvoi-valkoviinikastiketta",
+              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, kvinoaa sekä paahdettua kelta- ja raitajuurta, salottisipulia ja savuvoi-beurre blanc (L, G*)",
               "diets": [
                 "L",
                 "G"
@@ -179,7 +179,7 @@
               "price": "39,90 €"
             },
             {
-              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, paahdettua kelta- ja raitajuurta, sinisimpukkaa ja savuvoi-valkoviinikastiketta",
+              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, kvinoaa sekä paahdettua kelta- ja raitajuurta, salottisipulia ja savuvoi-beurre blanc (L, G*)",
               "diets": [
                 "L",
                 "G"
@@ -236,7 +236,7 @@
               "price": "39,90 €"
             },
             {
-              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, paahdettua kelta- ja raitajuurta, sinisimpukkaa ja savuvoi-valkoviinikastiketta",
+              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, kvinoaa sekä paahdettua kelta- ja raitajuurta, salottisipulia ja savuvoi-beurre blanc (L, G*)",
               "diets": [
                 "L",
                 "G"
@@ -293,7 +293,7 @@
               "price": "39,90 €"
             },
             {
-              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, paahdettua kelta- ja raitajuurta, sinisimpukkaa ja savuvoi-valkoviinikastiketta",
+              "name": "Kansallismaiseman kuhaa — Paistettua kuhaa, kvinoaa sekä paahdettua kelta- ja raitajuurta, salottisipulia ja savuvoi-beurre blanc (L, G*)",
               "diets": [
                 "L",
                 "G"
@@ -303,7 +303,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:36.414Z",
+      "fetchedAt": "2026-10-28T15:03:29.164Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -580,7 +580,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:36.390Z",
+      "fetchedAt": "2026-10-28T15:03:29.160Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -612,7 +612,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:37.920Z",
+      "fetchedAt": "2026-10-28T15:03:30.596Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -906,7 +906,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:36.910Z",
+      "fetchedAt": "2026-10-28T15:03:29.493Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1155,7 +1155,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:37.059Z",
+      "fetchedAt": "2026-10-28T15:03:29.901Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1278,7 +1278,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:36.844Z",
+      "fetchedAt": "2026-10-28T15:03:29.555Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1610,7 +1610,7 @@
               "category": "So Good"
             },
             {
-              "name": "Meidän keittiön jauhelihapihvejä metsäsienikastikkeessa",
+              "name": "Lihapullia sienikastikkeessa",
               "diets": [
                 "L"
               ],
@@ -1999,7 +1999,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:37.402Z",
+      "fetchedAt": "2026-10-28T15:03:30.366Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -2874,7 +2874,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:38.048Z",
+      "fetchedAt": "2026-10-28T15:03:30.362Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3192,7 +3192,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:37.987Z",
+      "fetchedAt": "2026-10-28T15:03:32.354Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -3439,7 +3439,7 @@
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:39.519Z",
+      "fetchedAt": "2026-10-28T15:03:32.104Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4002,7 +4002,7 @@
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:38.521Z",
+      "fetchedAt": "2026-10-28T15:03:30.846Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -4881,7 +4881,7 @@
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:38.089Z",
+      "fetchedAt": "2026-10-28T15:03:30.704Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -5751,7 +5751,7 @@
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:38.733Z",
+      "fetchedAt": "2026-10-28T15:03:31.425Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6006,7 +6006,7 @@
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:39.715Z",
+      "fetchedAt": "2026-10-28T15:03:37.048Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -6183,7 +6183,7 @@
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-10-28T10:33:40.298Z",
+      "fetchedAt": "2026-10-28T15:03:33.233Z",
       "status": "ok",
       "distance": {
         "meters": 667,
