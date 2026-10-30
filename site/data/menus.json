@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:11:21.639Z",
+  "generatedAt": "2026-10-30T10:51:24.983Z",
   "office": {
     "address": "Finlaysoninkuja 21 A",
     "lat": 61.5017294,
@@ -249,7 +249,7 @@
           "date": "2026-10-30",
           "items": [
             {
-              "name": "Grillipihvi porsaan ulkofileestä, valkosipulivoita, parmesaaniranskalaisia ja punaviinikastiketta",
+              "name": "Grillipihvi porsaan ulkofileestä, maustevoita, parmesaaniranskalaisia ja punaviinikastiketta",
               "diets": [
                 "L",
                 "G"
@@ -276,7 +276,7 @@
               "price": "14,00 €"
             },
             {
-              "name": "Pihvi 150g kotimaisesta naudan ulkofileestä, timjami-kermaperunaa ja pippuri-konjakkivoita",
+              "name": "Pihvi 150g kotimaisesta naudan ulkofileestä, timjami-kermaperunaa ja maustevoita",
               "diets": [
                 "L",
                 "G"
@@ -303,7 +303,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:17.829Z",
+      "fetchedAt": "2026-10-30T10:51:13.398Z",
       "status": "ok",
       "distance": {
         "meters": 740,
@@ -580,7 +580,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:17.625Z",
+      "fetchedAt": "2026-10-30T10:51:13.389Z",
       "status": "ok",
       "distance": {
         "meters": 606,
@@ -612,7 +612,7 @@
           "sourceUrl": "https://finlaysonmeetings.fi/wp-content/uploads/2026/07/NETTISIVUT_SALAATTIBUFFET_SYKSY2026-1024x1024.png"
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:19.202Z",
+      "fetchedAt": "2026-10-30T10:51:15.259Z",
       "status": "ok",
       "distance": {
         "meters": 150,
@@ -906,7 +906,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:17.969Z",
+      "fetchedAt": "2026-10-30T10:51:13.880Z",
       "status": "ok",
       "distance": {
         "meters": 326,
@@ -1155,7 +1155,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:18.440Z",
+      "fetchedAt": "2026-10-30T10:51:14.217Z",
       "status": "ok",
       "distance": {
         "meters": 544,
@@ -1175,40 +1175,6 @@
         "lng": 23.7569553
       },
       "days": [
-        {
-          "date": "2026-10-29",
-          "items": [
-            {
-              "name": "MEKSIKOLOUNAS — Nachokana Burrito (L, PG) Tortillan sisällä sipuli-paprikapaistosta ja lämmintä juustokastiketta. Päällä Fresh Mexican -kastiketta ja Pico de Galloa.",
-              "diets": [],
-              "price": "13,70 €"
-            },
-            {
-              "name": "SAVUJUUSTO-PEKONIBURGER 10 € — (L, PG) Ranskalaiset +2 €, dippi +2 €.",
-              "diets": []
-            },
-            {
-              "name": "LOUNASBURGERIT 12,90 € / tupla — Kana / kasvis (PG)",
-              "diets": [],
-              "price": "15,40 €"
-            },
-            {
-              "name": "LOUNASBURGERIT 13,70 € / tupla — Juusto / pekoni / chili / valkosipuli (PG)",
-              "diets": [],
-              "price": "16,50 €"
-            },
-            {
-              "name": "PARILALOUNAS — Paneroitu kana / paneroitu porsaan pihvi (L, PG) Grillikasviksia ja bearnaisekastiketta.",
-              "diets": [],
-              "price": "14,90 €"
-            },
-            {
-              "name": "LOUNASSALAATTI — Kana / halloumi / lohi (+2,50 €) (PG) Salaattisekoitusta, yrttiöljyä, Pico de Galloa, kurkkua, marinoitua punasipulia, paahdettuja kurpitsansiemeniä, nachomurua ja Queso Frescoa.",
-              "diets": [],
-              "price": "14,50 €"
-            }
-          ]
-        },
         {
           "date": "2026-10-30",
           "items": [
@@ -1244,7 +1210,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:19.117Z",
+      "fetchedAt": "2026-10-30T10:51:13.924Z",
       "status": "ok",
       "distance": {
         "meters": 397,
@@ -1803,11 +1769,44 @@
               "category": "HALLOWEEN -teemalounas"
             },
             {
+              "name": "Lime-yrttimajoneesia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "HALLOWEEN -teemalounas"
+            },
+            {
               "name": "Rapeaa kanaa - Crispy chicken",
               "diets": [
                 "G",
                 "L",
                 "M"
+              ],
+              "price": "14,00 €",
+              "category": "HALLOWEEN -teemalounas"
+            },
+            {
+              "name": "Srirachamajoneesia",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
+              ],
+              "price": "14,00 €",
+              "category": "HALLOWEEN -teemalounas"
+            },
+            {
+              "name": "Paahdettuja perunoita",
+              "diets": [
+                "G",
+                "L",
+                "M",
+                "VEG"
               ],
               "price": "14,00 €",
               "category": "HALLOWEEN -teemalounas"
@@ -1833,40 +1832,7 @@
               "category": "HALLOWEEN -teemalounas"
             },
             {
-              "name": "Paahdettuja perunoita",
-              "diets": [
-                "G",
-                "L",
-                "M",
-                "VEG"
-              ],
-              "price": "14,00 €",
-              "category": "HALLOWEEN -teemalounas"
-            },
-            {
               "name": "Paahdettua myskikurpitsaa",
-              "diets": [
-                "G",
-                "L",
-                "M",
-                "VEG"
-              ],
-              "price": "14,00 €",
-              "category": "HALLOWEEN -teemalounas"
-            },
-            {
-              "name": "Lime-yrttimajoneesia",
-              "diets": [
-                "G",
-                "L",
-                "M",
-                "VEG"
-              ],
-              "price": "14,00 €",
-              "category": "HALLOWEEN -teemalounas"
-            },
-            {
-              "name": "Srirachamajoneesia",
               "diets": [
                 "G",
                 "L",
@@ -1927,7 +1893,7 @@
               "category": "Grillistä"
             },
             {
-              "name": "Jogurttipannacottaa ja mansikkamelbaa",
+              "name": "Pannacottaa ja mansikkamelbaa",
               "diets": [
                 "G",
                 "L"
@@ -2713,7 +2679,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:18.530Z",
+      "fetchedAt": "2026-10-30T10:51:14.689Z",
       "status": "ok",
       "distance": {
         "meters": 404,
@@ -3588,7 +3554,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:19.467Z",
+      "fetchedAt": "2026-10-30T10:51:14.871Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -3906,7 +3872,7 @@
           ]
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:19.296Z",
+      "fetchedAt": "2026-10-30T10:51:15.046Z",
       "status": "ok",
       "distance": {
         "meters": 796,
@@ -4167,9 +4133,25 @@
             }
           ],
           "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
+        },
+        {
+          "date": "2026-11-13",
+          "items": [
+            {
+              "name": "Kebab, pizza tai 12 kpl Hot Wings",
+              "diets": [],
+              "price": "12,50 €"
+            },
+            {
+              "name": "Grilliannokset",
+              "diets": [],
+              "price": "13,90 €"
+            }
+          ],
+          "note": "Lounaaseen sisältyy salaatti, jälkiruoka ja kahvi/tee sekä 0,33 l juoma (grilliannoksissa vesi). Normaalikokoiset annokset — ei rullaa eikä talon erikoista. Gluteeniton pizza +3 €."
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:21.485Z",
+      "fetchedAt": "2026-10-30T10:51:18.129Z",
       "status": "ok",
       "distance": {
         "meters": 1005,
@@ -4773,9 +4755,51 @@
             }
           ],
           "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
+        },
+        {
+          "date": "2026-11-13",
+          "items": [
+            {
+              "name": "Butter chicken — tandoorissa grillattua kanaa tomaatti-, voi- ja cashewkermakastikkeessa",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Lamb rogan — lammasta maustetussa sipuli-, valkosipuli-, korianteri- ja jogurttikastikkeessa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Tofu coconut — tofua kookos- ja currykastikkeessa",
+              "diets": [
+                "L",
+                "G",
+                "VEG"
+              ]
+            },
+            {
+              "name": "Dal makhani — papuja korianterilla ja kuminalla maustettuna voi- ja kermakastikkeessa",
+              "diets": [
+                "L",
+                "G"
+              ]
+            },
+            {
+              "name": "Jeera alu — paistettua perunaa ja kuminaa",
+              "diets": [
+                "L",
+                "G",
+                "VEG"
+              ]
+            }
+          ],
+          "note": "Annoksiin sisältyy basmatiriisi, naan-leipä, paistetut kasvikset, raita, papadum, salaattipöytä, mango lassi, kahvi ja nepalilainen tee."
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:19.752Z",
+      "fetchedAt": "2026-10-30T10:51:15.426Z",
       "status": "ok",
       "distance": {
         "meters": 900,
@@ -5718,9 +5742,75 @@
             }
           ],
           "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
+        },
+        {
+          "date": "2026-11-13",
+          "items": [
+            {
+              "name": "Tofu bowl — musta riisi, punakaali, marinoitu tofu, parsakaali, maapähkinävoikastike",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Halloumisalaatti — halloumi, mansikka, meloni, pikkelöity punasipuli, mustaherukkavinaigrette",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Buddha bowl — kvinoa, bataatti, kukkakaalipyree, punajuurihummus, avokado, Nirvana-kastike",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Lehtikaali-tofusalaatti — lehtikaali-pinaatti, limemajoneesi, Jalotofu, avokado, manteli",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Avokadopasta — avokado, chili, valkosipuli, basilikaöljy, parmesaani",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            },
+            {
+              "name": "Chicken bowl — musta riisi, punakaali, marinoitu kana, parsakaali, maapähkinävoikastike",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Wasabi-lehtikaalibowl — musta riisi, marinoitu kana tai tofu, wasabimajoneesi, ponzu",
+              "diets": [
+                "VEG*",
+                "G"
+              ]
+            },
+            {
+              "name": "Lehtikaalibowl — lehtikaali, kvinoa, tomaatti, halloumi, uppomuna, manteli, jogurttikastike",
+              "diets": [
+                "G"
+              ]
+            },
+            {
+              "name": "Nuudelisalaatti — lasinuudeli, porkkana, avokado, punakaali, parsakaali, maapähkinävoikastike",
+              "diets": [
+                "VEG",
+                "G"
+              ]
+            }
+          ],
+          "note": "Sama lounaslista kaikissa Green Hippon ravintoloissa."
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:19.601Z",
+      "fetchedAt": "2026-10-30T10:51:15.143Z",
       "status": "ok",
       "distance": {
         "meters": 769,
@@ -6669,9 +6759,90 @@
             }
           ],
           "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
+        },
+        {
+          "date": "2026-11-13",
+          "items": [
+            {
+              "name": "Lounasburgerit, 10 vaihtoehtoa, sis. talon ranskalaiset",
+              "diets": [],
+              "price": "12,80 €",
+              "category": "Burgerit"
+            },
+            {
+              "name": "Burgerit XXL-koossa: 200 g pihvi ja isommat ranskalaiset",
+              "diets": [],
+              "price": "14,80 €",
+              "category": "Burgerit"
+            },
+            {
+              "name": "Porsaan ulkofilee",
+              "diets": [],
+              "price": "12,80 €",
+              "category": "Lounaspihvit"
+            },
+            {
+              "name": "Broilerin rintafilee",
+              "diets": [],
+              "price": "12,80 €",
+              "category": "Lounaspihvit"
+            },
+            {
+              "name": "Lohi",
+              "diets": [],
+              "price": "15,70 €",
+              "category": "Lounaspihvit"
+            },
+            {
+              "name": "Naudan ulkofilee",
+              "diets": [],
+              "price": "16,70 €",
+              "category": "Lounaspihvit"
+            },
+            {
+              "name": "Halloumisalaatti",
+              "diets": [
+                "G*"
+              ],
+              "price": "12,80 €",
+              "category": "Lounassalaatit"
+            },
+            {
+              "name": "Kanasalaatti",
+              "diets": [
+                "L",
+                "G*"
+              ],
+              "price": "12,80 €",
+              "category": "Lounassalaatit"
+            },
+            {
+              "name": "Kana-Caesar",
+              "diets": [
+                "L"
+              ],
+              "price": "13,70 €",
+              "category": "Lounassalaatit"
+            },
+            {
+              "name": "Lohi-Caesar",
+              "diets": [
+                "L"
+              ],
+              "price": "13,70 €",
+              "category": "Lounassalaatit"
+            },
+            {
+              "name": "Päivän vaihtuva lounasannos",
+              "diets": [],
+              "price": "12,80 €",
+              "category": "Päivän lounas"
+            }
+          ],
+          "note": "Kaikkiin annoksiin sisältyy salaattipöytä. Päivän vaihtuvaa annosta ei julkaista ravintolan sivuilla."
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:20.183Z",
+      "fetchedAt": "2026-10-30T10:51:24.982Z",
       "status": "ok",
       "distance": {
         "meters": 593,
@@ -6942,9 +7113,27 @@
             }
           ],
           "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
+        },
+        {
+          "date": "2026-11-13",
+          "items": [
+            {
+              "name": "Thai-wokit",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Lounasannokset"
+            },
+            {
+              "name": "Salaatit",
+              "diets": [],
+              "price": "14,90 €",
+              "category": "Lounasannokset"
+            }
+          ],
+          "note": "Wokit ja salaatit tarjoillaan pöytiin lounashintaan. Tuplaliha +4,50 €."
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:21.225Z",
+      "fetchedAt": "2026-10-30T10:51:22.683Z",
       "status": "ok",
       "distance": {
         "meters": 1116,
@@ -7131,9 +7320,21 @@
             }
           ],
           "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
+        },
+        {
+          "date": "2026-11-13",
+          "items": [
+            {
+              "name": "Intialainen buffetlounas: runsaasti kana-, liha- ja kasvisruokia",
+              "diets": [],
+              "price": "14,00 €",
+              "category": "Buffet"
+            }
+          ],
+          "note": "Sisältää naan-leivän, riisin ja raita-kastikkeen. Lapset alle 10 v 9,00 €."
         }
       ],
-      "fetchedAt": "2026-10-29T15:11:21.639Z",
+      "fetchedAt": "2026-10-30T10:51:19.713Z",
       "status": "ok",
       "distance": {
         "meters": 667,
